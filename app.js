@@ -6,6 +6,7 @@ const state = {
     industry: "All",
     model: "All",
     subject: "All",
+    tag: "All",
     search: "",
   },
 };
@@ -16,6 +17,7 @@ const els = {
   industryFilter: document.querySelector("#industryFilter"),
   modelFilter: document.querySelector("#modelFilter"),
   subjectFilter: document.querySelector("#subjectFilter"),
+  tagFilter: document.querySelector("#tagFilter"),
   searchInput: document.querySelector("#searchInput"),
   resultCount: document.querySelector("#resultCount"),
   emptyState: document.querySelector("#emptyState"),
@@ -79,6 +81,17 @@ function unique(items, key) {
   return [...new Set(items.map((item) => item[key]).filter(Boolean))].sort();
 }
 
+function getTags(item) {
+  return String(item.tags || "")
+    .split(";")
+    .map((tag) => tag.trim())
+    .filter(Boolean);
+}
+
+function uniqueTags(items) {
+  return [...new Set(items.flatMap(getTags))].sort();
+}
+
 function setOptions(select, values) {
   select.innerHTML = ["All", ...values]
     .map((value) => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`)
@@ -123,10 +136,22 @@ function applyFilters() {
     const matchesIndustry = state.filters.industry === "All" || item.industry === state.filters.industry;
     const matchesModel = state.filters.model === "All" || item.model === state.filters.model;
     const matchesSubject = state.filters.subject === "All" || item.subject === state.filters.subject;
-    const haystack = `${item.case_id} ${item.industry} ${item.subject} ${item.scene} ${item.model} ${item.prompt}`.toLowerCase();
+    const tags = getTags(item);
+    const matchesTag = state.filters.tag === "All" || tags.includes(state.filters.tag);
+    const haystack = `${item.case_id} ${item.industry} ${item.subject} ${item.scene} ${item.model} ${tags.join(" ")} ${item.prompt}`.toLowerCase();
     const matchesSearch = !query || haystack.includes(query);
-    return matchesIndustry && matchesModel && matchesSubject && matchesSearch;
+    return matchesIndustry && matchesModel && matchesSubject && matchesTag && matchesSearch;
   });
+}
+
+function renderTagList(item, limit = 4) {
+  const tags = getTags(item).slice(0, limit);
+  if (!tags.length) return "";
+  return `
+    <div class="case-tags">
+      ${tags.map((tag) => `<span class="tag tag-secondary">${escapeHtml(tag)}</span>`).join("")}
+    </div>
+  `;
 }
 
 function renderGallery() {
@@ -144,6 +169,7 @@ function renderGallery() {
             <span class="tag model">${escapeHtml(item.model)}</span>
           </div>
           <h3>${escapeHtml(item.scene)}</h3>
+          ${renderTagList(item)}
           <p>${escapeHtml(item.prompt.slice(0, 150))}${item.prompt.length > 150 ? "..." : ""}</p>
           <button type="button" data-index="${index}">View prompt</button>
         </div>
@@ -158,6 +184,7 @@ function renderGallery() {
 
 function openDialog(item) {
   const hasReference = Boolean(item.reference_image);
+  const tagMarkup = renderTagList(item, 18);
   const mediaMarkup = hasReference
     ? `
       <div class="compare-media">
@@ -185,6 +212,7 @@ function openDialog(item) {
           <span class="tag model">${escapeHtml(item.model)}</span>
         </div>
         <h2>${escapeHtml(item.scene)}</h2>
+        ${tagMarkup}
         ${referenceLink}
         <div class="prompt-box">${escapeHtml(item.prompt)}</div>
       </div>
@@ -206,15 +234,20 @@ function wireFilters() {
     state.filters.subject = els.subjectFilter.value;
     renderGallery();
   });
+  els.tagFilter.addEventListener("change", () => {
+    state.filters.tag = els.tagFilter.value;
+    renderGallery();
+  });
   els.searchInput.addEventListener("input", () => {
     state.filters.search = els.searchInput.value;
     renderGallery();
   });
   els.resetFilters.addEventListener("click", () => {
-    state.filters = { industry: "All", model: "All", subject: "All", search: "" };
+    state.filters = { industry: "All", model: "All", subject: "All", tag: "All", search: "" };
     els.industryFilter.value = "All";
     els.modelFilter.value = "All";
     els.subjectFilter.value = "All";
+    els.tagFilter.value = "All";
     els.searchInput.value = "";
     renderGallery();
   });
@@ -233,6 +266,7 @@ async function init() {
   setOptions(els.industryFilter, unique(state.cases, "industry"));
   setOptions(els.modelFilter, unique(state.cases, "model"));
   setOptions(els.subjectFilter, unique(state.cases, "subject"));
+  setOptions(els.tagFilter, uniqueTags(state.cases));
   renderStats();
   renderCollections();
   renderGallery();

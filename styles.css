@@ -294,9 +294,9 @@ main {
 
 .toolbar {
   display: grid;
-  grid-template-columns: repeat(4, minmax(140px, 1fr));
+  grid-template-columns: repeat(5, minmax(130px, 1fr));
   gap: 10px;
-  width: min(760px, 100%);
+  width: min(920px, 100%);
 }
 
 .toolbar label {
@@ -393,6 +393,18 @@ main {
 .tag.model {
   background: #fff0e6;
   color: var(--accent-dark);
+}
+
+.tag-secondary {
+  background: #eef7f2;
+  color: #256449;
+}
+
+.case-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
 }
 
 .case-card h3 {

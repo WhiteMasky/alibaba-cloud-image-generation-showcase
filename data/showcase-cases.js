@@ -10,7 +10,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-01.png",
     "prompt": "Create a textbook-style illustration for a literature lesson. Show a quiet riverside at dusk, an ancient poet standing near a small wooden boat, distant mountains, soft clouds, and reflections on the water. Use a restrained watercolor style, poetic atmosphere, muted colors, and a composition suitable for a middle school language arts textbook. Do not include modern objects or decorative text.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Chinese literature"
   },
   {
     "collection": "Education",
@@ -23,7 +24,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-01.png",
     "prompt": "Create a textbook-style illustration for a literature lesson. Show a quiet riverside at dusk, an ancient poet standing near a small wooden boat, distant mountains, soft clouds, and reflections on the water. Use a restrained watercolor style, poetic atmosphere, muted colors, and a composition suitable for a middle school language arts textbook. Do not include modern objects or decorative text.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Chinese literature"
   },
   {
     "collection": "Education",
@@ -36,7 +38,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-02.png",
     "prompt": "Redraw a charming watercolor Chinese language textbook illustration featuring a young girl with pigtails, floating bubbles, a colorful rooster, and two white swans. Use a soft limited color palette dominated by blues, greens, and natural tones. Set the scene on a wooden dock beside a calm body of water, with a grassy bank and a gentle educational textbook atmosphere.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Chinese textbook"
   },
   {
     "collection": "Education",
@@ -49,7 +52,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-02.png",
     "prompt": "Redraw a charming watercolor Chinese language textbook illustration featuring a young girl with pigtails, floating bubbles, a colorful rooster, and two white swans. Use a soft limited color palette dominated by blues, greens, and natural tones. Set the scene on a wooden dock beside a calm body of water, with a grassy bank and a gentle educational textbook atmosphere.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Chinese textbook"
   },
   {
     "collection": "Education",
@@ -62,7 +66,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-03.png",
     "prompt": "Create an English language textbook illustration for beginner students. Two students are talking in front of a school library. One student is holding a book, and the other is pointing toward a notice board. Use a clean, friendly textbook illustration style, simple background, natural facial expressions, and two empty speech bubbles for later dialogue text.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; English"
   },
   {
     "collection": "Education",
@@ -75,7 +80,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-03.png",
     "prompt": "Create an English language textbook illustration for beginner students. Two students are talking in front of a school library. One student is holding a book, and the other is pointing toward a notice board. Use a clean, friendly textbook illustration style, simple background, natural facial expressions, and two empty speech bubbles for later dialogue text.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; English"
   },
   {
     "collection": "Education",
@@ -88,7 +94,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-04.png",
     "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students are standing near a classroom door and greeting each other. One student carries a school bag, and the other holds a notebook. Use a bright, clean textbook illustration style with simple classroom details and friendly natural expressions. Include exactly two speech bubbles with the following Japanese text, no extra text anywhere: Speech bubble 1: 「おはようございます。」 Speech bubble 2: 「おはよう。今日は何を勉強しますか。」",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Japanese"
   },
   {
     "collection": "Education",
@@ -101,7 +108,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-04.png",
     "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students are standing near a classroom door and greeting each other. One student carries a school bag, and the other holds a notebook. Use a bright, clean textbook illustration style with simple classroom details and friendly natural expressions. Include exactly two speech bubbles with the following Japanese text, no extra text anywhere: Speech bubble 1: 「おはようございます。」 Speech bubble 2: 「おはよう。今日は何を勉強しますか。」",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Japanese"
   },
   {
     "collection": "Education",
@@ -114,7 +122,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-05.png",
     "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students are standing near a classroom door and greeting each other. One student carries a school bag, and the other holds a notebook. Use a bright, clean textbook illustration style with simple classroom details, friendly expressions, and two empty speech bubbles for Japanese dialogue.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Japanese"
   },
   {
     "collection": "Education",
@@ -127,7 +136,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-05.png",
     "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students are standing near a classroom door and greeting each other. One student carries a school bag, and the other holds a notebook. Use a bright, clean textbook illustration style with simple classroom details, friendly expressions, and two empty speech bubbles for Japanese dialogue.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Japanese"
   },
   {
     "collection": "Education",
@@ -140,7 +150,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-06.png",
     "prompt": "Create a French language textbook illustration for beginner learners. Two young people meet outside a small café on a quiet street. They are greeting each other politely. Use a soft, friendly textbook illustration style, light European street details, no brand names, and two empty speech bubbles for French dialogue. Dialogue to add later: A: Bonjour, comment ça va ? B: Très bien, merci.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; French"
   },
   {
     "collection": "Education",
@@ -153,7 +164,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-06.png",
     "prompt": "Create a French language textbook illustration for beginner learners. Two young people meet outside a small café on a quiet street. They are greeting each other politely. Use a soft, friendly textbook illustration style, light European street details, no brand names, and two empty speech bubbles for French dialogue. Dialogue to add later: A: Bonjour, comment ça va ? B: Très bien, merci.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; French"
   },
   {
     "collection": "Education",
@@ -166,7 +178,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-07.png",
     "prompt": "Create a Spanish language textbook illustration for beginner learners. Two students are standing in a school courtyard and talking about their class schedule. Use a clear educational illustration style, warm colors, simple background, natural gestures, and two empty speech bubbles for Spanish dialogue. Dialogue to add later: A: ¿Qué clase tienes ahora? B: Tengo clase de ciencias.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Spanish"
   },
   {
     "collection": "Education",
@@ -179,7 +192,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-07.png",
     "prompt": "Create a Spanish language textbook illustration for beginner learners. Two students are standing in a school courtyard and talking about their class schedule. Use a clear educational illustration style, warm colors, simple background, natural gestures, and two empty speech bubbles for Spanish dialogue. Dialogue to add later: A: ¿Qué clase tienes ahora? B: Tengo clase de ciencias.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Spanish"
   },
   {
     "collection": "Education",
@@ -192,7 +206,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_HUM-08.png",
     "prompt": "Create a Russian language textbook illustration for beginner learners. Two classmates are meeting at the entrance of a school and greeting each other. Use a clean textbook illustration style, soft colors, simple school background, natural expressions, and two empty speech bubbles for Russian dialogue. Dialogue to add later: A: Привет! Как дела? B: Хорошо, спасибо. А у тебя?",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Russian"
   },
   {
     "collection": "Education",
@@ -205,7 +220,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_HUM-08.png",
     "prompt": "Create a Russian language textbook illustration for beginner learners. Two classmates are meeting at the entrance of a school and greeting each other. Use a clean textbook illustration style, soft colors, simple school background, natural expressions, and two empty speech bubbles for Russian dialogue. Dialogue to add later: A: Привет! Как дела? B: Хорошо, спасибо. А у тебя?",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Russian"
   },
   {
     "collection": "Education",
@@ -218,7 +234,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-01.png",
     "prompt": "Create a clean mathematics textbook diagram explaining the quadratic function y = ax² + bx + c. Show a coordinate plane, an upward-opening parabola, vertex, axis of symmetry, x-intercepts, y-intercept, and a light grid. Use precise vector lines, blue curve, red key points, gray grid, white background, and leave clear space for formula labels and annotations.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -231,7 +248,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-01.png",
     "prompt": "Create a clean mathematics textbook diagram explaining the quadratic function y = ax² + bx + c. Show a coordinate plane, an upward-opening parabola, vertex, axis of symmetry, x-intercepts, y-intercept, and a light grid. Use precise vector lines, blue curve, red key points, gray grid, white background, and leave clear space for formula labels and annotations.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -244,7 +262,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-01A.png",
     "prompt": "Create a clean mathematics textbook diagram explaining the quadratic function y = ax² + bx + c. Show a coordinate plane, an upward-opening parabola, vertex, axis of symmetry, x-intercepts, and y-intercept. Use precise vector lines, blue curve, red key points, pure white background, and no grid lines at all. Leave clear empty space for formula labels and annotations.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -257,7 +276,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-01A.png",
     "prompt": "Create a clean mathematics textbook diagram explaining the quadratic function y = ax² + bx + c. Show a coordinate plane, an upward-opening parabola, vertex, axis of symmetry, x-intercepts, and y-intercept. Use precise vector lines, blue curve, red key points, pure white background, and no grid lines at all. Leave clear empty space for formula labels and annotations.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -270,7 +290,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-01B.png",
     "prompt": "Create a clean mathematics textbook diagram explaining the quadratic function y = ax² + bx + c. Show a coordinate plane, an upward-opening parabola, vertex, axis of symmetry, x-intercepts, and y-intercept. Use precise vector lines, blue curve, red key points, pure white background, and a very light gray coordinate grid with perfectly even spacing, straight horizontal and vertical lines, no warped or random grid cells. Leave clear empty space for formula labels and annotations.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -283,7 +304,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-01B.png",
     "prompt": "Create a clean mathematics textbook diagram explaining the quadratic function y = ax² + bx + c. Show a coordinate plane, an upward-opening parabola, vertex, axis of symmetry, x-intercepts, and y-intercept. Use precise vector lines, blue curve, red key points, pure white background, and a very light gray coordinate grid with perfectly even spacing, straight horizontal and vertical lines, no warped or random grid cells. Leave clear empty space for formula labels and annotations.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -296,7 +318,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-02.png",
     "prompt": "Create a mathematics textbook-style diagram of a quadratic function without any written text. Show a coordinate plane with a smooth upward-opening parabola, vertex point, axis of symmetry, two x-axis intersection points, and one y-axis intersection point. Use clean vector graphics, white background, light gray grid, blue curve, red points, and empty annotation space.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -309,7 +332,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-02.png",
     "prompt": "Create a mathematics textbook-style diagram of a quadratic function without any written text. Show a coordinate plane with a smooth upward-opening parabola, vertex point, axis of symmetry, two x-axis intersection points, and one y-axis intersection point. Use clean vector graphics, white background, light gray grid, blue curve, red points, and empty annotation space.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Mathematics; STEM"
   },
   {
     "collection": "Education",
@@ -322,7 +346,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-03.png",
     "prompt": "Draw a free-body diagram of a block on an inclined plane with friction. Label the normal force, gravitational force, weight components, friction force, net force, and angle. Use different colored arrows for different forces: weight in blue, normal force in green, friction in red, net force in orange. Use a clean white background, high contrast, precise arrow directions, and a professional physics textbook illustration style.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Physics; STEM"
   },
   {
     "collection": "Education",
@@ -335,7 +360,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-03.png",
     "prompt": "Draw a free-body diagram of a block on an inclined plane with friction. Label the normal force, gravitational force, weight components, friction force, net force, and angle. Use different colored arrows for different forces: weight in blue, normal force in green, friction in red, net force in orange. Use a clean white background, high contrast, precise arrow directions, and a professional physics textbook illustration style.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Physics; STEM"
   },
   {
     "collection": "Education",
@@ -348,7 +374,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-04.png",
     "prompt": "Create a clean physics textbook illustration showing a block on an inclined plane with force arrows but no text labels. Include arrows for gravity, normal force, friction, and force components. Use simple geometric shapes, accurate directions, white background, thin technical lines, and color-coded arrows. Leave empty space around each arrow for later labeling.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Physics; No-text production asset; STEM"
   },
   {
     "collection": "Education",
@@ -361,7 +388,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-04.png",
     "prompt": "Create a clean physics textbook illustration showing a block on an inclined plane with force arrows but no text labels. Include arrows for gravity, normal force, friction, and force components. Use simple geometric shapes, accurate directions, white background, thin technical lines, and color-coded arrows. Leave empty space around each arrow for later labeling.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Physics; No-text production asset; STEM"
   },
   {
     "collection": "Education",
@@ -374,7 +402,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-05.png",
     "prompt": "Create a professional physics education illustration showing a bar magnet passing through a coil and producing electromagnetic induction. Include the magnet, coil, magnetic field lines, current direction arrows, and a galvanometer. Use a clean textbook diagram style, blue and orange functional colors, white background, clear linework, and accurate visual relationships.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Physics; STEM"
   },
   {
     "collection": "Education",
@@ -387,7 +416,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-05.png",
     "prompt": "Create a professional physics education illustration showing a bar magnet passing through a coil and producing electromagnetic induction. Include the magnet, coil, magnetic field lines, current direction arrows, and a galvanometer. Use a clean textbook diagram style, blue and orange functional colors, white background, clear linework, and accurate visual relationships.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Physics; STEM"
   },
   {
     "collection": "Education",
@@ -400,7 +430,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-06.png",
     "prompt": "Create an organic chemistry textbook illustration of an SN2 reaction mechanism. Show the nucleophile attacking from the backside, the central carbon, the leaving group, the transition state, and the product with inversion of configuration. Use curved arrows for electron movement, clean black molecular line art, subtle blue highlights for the nucleophile, orange highlights for the leaving group, white background, and professional university chemistry textbook style.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Chemistry; STEM"
   },
   {
     "collection": "Education",
@@ -413,7 +444,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-06.png",
     "prompt": "Create an organic chemistry textbook illustration of an SN2 reaction mechanism. Show the nucleophile attacking from the backside, the central carbon, the leaving group, the transition state, and the product with inversion of configuration. Use curved arrows for electron movement, clean black molecular line art, subtle blue highlights for the nucleophile, orange highlights for the leaving group, white background, and professional university chemistry textbook style.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Chemistry; STEM"
   },
   {
     "collection": "Education",
@@ -426,7 +458,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-07.png",
     "prompt": "Create a detailed educational diagram of an animal cell for a high school biology textbook. Show the plasma membrane, nucleus, nucleolus, mitochondria, rough endoplasmic reticulum, smooth endoplasmic reticulum, Golgi apparatus, ribosomes, lysosomes, cytoplasm, and cytoskeleton. Use a clean scientific illustration style, soft but distinct colors for each organelle, white background, accurate proportions, and clear empty label areas with leader lines.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Biology; STEM"
   },
   {
     "collection": "Education",
@@ -439,7 +472,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-07.png",
     "prompt": "Create a detailed educational diagram of an animal cell for a high school biology textbook. Show the plasma membrane, nucleus, nucleolus, mitochondria, rough endoplasmic reticulum, smooth endoplasmic reticulum, Golgi apparatus, ribosomes, lysosomes, cytoplasm, and cytoskeleton. Use a clean scientific illustration style, soft but distinct colors for each organelle, white background, accurate proportions, and clear empty label areas with leader lines.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Biology; STEM"
   },
   {
     "collection": "Education",
@@ -452,7 +486,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-08.png",
     "prompt": "Create a biology textbook illustration explaining photosynthesis in a plant leaf. Show sunlight entering the leaf, carbon dioxide entering through stomata, water moving from roots to leaves, oxygen being released, and glucose being produced. Include a simplified chloroplast cutaway with thylakoid stacks. Use arrows to show material flow, clean vector style, white background, middle school science textbook aesthetic, scientifically accurate and easy to understand.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Biology; STEM"
   },
   {
     "collection": "Education",
@@ -465,7 +500,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-08.png",
     "prompt": "Create a biology textbook illustration explaining photosynthesis in a plant leaf. Show sunlight entering the leaf, carbon dioxide entering through stomata, water moving from roots to leaves, oxygen being released, and glucose being produced. Include a simplified chloroplast cutaway with thylakoid stacks. Use arrows to show material flow, clean vector style, white background, middle school science textbook aesthetic, scientifically accurate and easy to understand.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Biology; STEM"
   },
   {
     "collection": "Education",
@@ -478,7 +514,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-09.png",
     "prompt": "Create a professional biology education illustration showing DNA replication. Include a double helix opening at the replication fork, helicase, DNA polymerase, leading strand, lagging strand, Okazaki fragments, primers, and new complementary strands. Use a clean molecular biology textbook style, color-coded components, precise arrows showing directionality, white background, and clear space for labels.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Biology; STEM"
   },
   {
     "collection": "Education",
@@ -491,7 +528,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-09.png",
     "prompt": "Create a professional biology education illustration showing DNA replication. Include a double helix opening at the replication fork, helicase, DNA polymerase, leading strand, lagging strand, Okazaki fragments, primers, and new complementary strands. Use a clean molecular biology textbook style, color-coded components, precise arrows showing directionality, white background, and clear space for labels.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Biology; STEM"
   },
   {
     "collection": "Education",
@@ -504,7 +542,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_STEM-10.png",
     "prompt": "Create a clean educational circuit diagram for a basic series circuit. Show a battery, switch, resistor, light bulb, connecting wires, and current direction arrows. Use an IEEE-inspired schematic style adapted for high school students, black technical lines on a white background, simple symbols, consistent spacing, and clear empty areas for labels.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Engineering; STEM"
   },
   {
     "collection": "Education",
@@ -517,7 +556,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_STEM-10.png",
     "prompt": "Create a clean educational circuit diagram for a basic series circuit. Show a battery, switch, resistor, light bulb, connecting wires, and current direction arrows. Use an IEEE-inspired schematic style adapted for high school students, black technical lines on a white background, simple symbols, consistent spacing, and clear empty areas for labels.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Education; Engineering; STEM"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -530,7 +570,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-01.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the dropper bottle's tall narrow silhouette, white cap, glass body, and proportions. Create a premium skincare serum ecommerce hero image with soft warm-white studio lighting, a clean reflective surface, subtle water droplets, and minimal botanical props. Keep the same product recognizable. No brand logo, no readable text, leave blank space for later headline and label overlay.",
     "reference_image": "assets/reference/MKT-01_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Eye_Dropper_Bottle_1.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Eye_Dropper_Bottle_1.jpg",
+    "tags": "Advertising & E-commerce; Skincare; Reference-driven; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -543,7 +584,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-01.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the dropper bottle's tall narrow silhouette, white cap, glass body, and proportions. Create a premium skincare serum ecommerce hero image with soft warm-white studio lighting, a clean reflective surface, subtle water droplets, and minimal botanical props. Keep the same product recognizable. No brand logo, no readable text, leave blank space for later headline and label overlay.",
     "reference_image": "assets/reference/MKT-01_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Eye_Dropper_Bottle_1.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Eye_Dropper_Bottle_1.jpg",
+    "tags": "Advertising & E-commerce; Skincare; Reference-driven; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -556,7 +598,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-02.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the headphones' over-ear shape, black finish, earcup proportions, and headband structure. Create a high-end ecommerce launch campaign visual on a dark graphite reflective surface with dramatic rim lighting and subtle blue accent light. Keep the product recognizable, do not redesign it. No logo emphasis, no readable text, negative space for headline.",
     "reference_image": "assets/reference/MKT-02_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Audio-Technica_ATH-M70x_Headphones.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Audio-Technica_ATH-M70x_Headphones.jpg",
+    "tags": "Advertising & E-commerce; Consumer electronics; Reference-driven"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -569,7 +612,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-02.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the headphones' over-ear shape, black finish, earcup proportions, and headband structure. Create a high-end ecommerce launch campaign visual on a dark graphite reflective surface with dramatic rim lighting and subtle blue accent light. Keep the product recognizable, do not redesign it. No logo emphasis, no readable text, negative space for headline.",
     "reference_image": "assets/reference/MKT-02_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Audio-Technica_ATH-M70x_Headphones.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Audio-Technica_ATH-M70x_Headphones.jpg",
+    "tags": "Advertising & E-commerce; Consumer electronics; Reference-driven"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -582,7 +626,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-03.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the shoe's color blocking, sole thickness, lace structure, and overall silhouette while removing brand emphasis. Create a dynamic ecommerce running-shoe campaign image with the shoe suspended mid-air, clean motion trails, light dust particles, and a bright studio background. Keep the original product appearance recognizable. No readable text, leave wide negative space for ad copy.",
     "reference_image": "assets/reference/MKT-03_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg",
+    "tags": "Advertising & E-commerce; Footwear; Reference-driven; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -595,7 +640,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-03.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the shoe's color blocking, sole thickness, lace structure, and overall silhouette while removing brand emphasis. Create a dynamic ecommerce running-shoe campaign image with the shoe suspended mid-air, clean motion trails, light dust particles, and a bright studio background. Keep the original product appearance recognizable. No readable text, leave wide negative space for ad copy.",
     "reference_image": "assets/reference/MKT-03_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg",
+    "tags": "Advertising & E-commerce; Footwear; Reference-driven; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -608,7 +654,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-04.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the upright paper coffee bag shape, kraft material, folds, and natural bag silhouette. Create a realistic ecommerce product-page image with the bag standing beside roasted coffee beans on a textured linen surface, natural morning window light, warm neutral tones, and shallow depth of field. Keep the product recognizable. No readable text, blank label area.",
     "reference_image": "assets/reference/MKT-04_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Coffee_Bag.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Coffee_Bag.jpg",
+    "tags": "Advertising & E-commerce; Coffee; Reference-driven; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -621,7 +668,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-04.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the upright paper coffee bag shape, kraft material, folds, and natural bag silhouette. Create a realistic ecommerce product-page image with the bag standing beside roasted coffee beans on a textured linen surface, natural morning window light, warm neutral tones, and shallow depth of field. Keep the product recognizable. No readable text, blank label area.",
     "reference_image": "assets/reference/MKT-04_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Coffee_Bag.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Coffee_Bag.jpg",
+    "tags": "Advertising & E-commerce; Coffee; Reference-driven; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -634,7 +682,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-05.png",
     "prompt": "Create a realistic lifestyle ecommerce image for a fictional compact smart air purifier in a calm modern living room. Product sits near a sofa and a green plant, soft afternoon sunlight, clean interior styling, subtle airflow visualization, premium home wellness mood, no brand logo, no readable text. Keep the product clearly visible and centered enough for marketplace use.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Home appliance"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -647,7 +696,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-05.png",
     "prompt": "Create a realistic lifestyle ecommerce image for a fictional compact smart air purifier in a calm modern living room. Product sits near a sofa and a green plant, soft afternoon sunlight, clean interior styling, subtle airflow visualization, premium home wellness mood, no brand logo, no readable text. Keep the product clearly visible and centered enough for marketplace use.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Home appliance"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -660,7 +710,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-06.png",
     "prompt": "Create a clean ecommerce comparison carousel visual showing three fictional reusable water bottles in matte white, sage green, and midnight blue. Use a pure light gray studio background, consistent spacing, front-facing product angles, soft shadows, marketplace catalog style, no brand names, no readable text. Leave small blank label areas under each bottle for later price and feature overlays.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Marketplace; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -673,7 +724,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-06.png",
     "prompt": "Create a clean ecommerce comparison carousel visual showing three fictional reusable water bottles in matte white, sage green, and midnight blue. Use a pure light gray studio background, consistent spacing, front-facing product angles, soft shadows, marketplace catalog style, no brand names, no readable text. Leave small blank label areas under each bottle for later price and feature overlays.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Marketplace; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -686,7 +738,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-07.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the wristwatch case shape, dial layout, strap material, metal highlights, and proportions while avoiding visible brand emphasis. Create a luxury ecommerce advertising image on dark walnut wood with a black reflective backdrop, dramatic side lighting, and precise highlights on the metal. Keep the watch clearly recognizable. No readable text, leave upper-right negative space.",
     "reference_image": "assets/reference/MKT-07_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Fossil_wristwatch_with_white_background.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Fossil_wristwatch_with_white_background.jpg",
+    "tags": "Advertising & E-commerce; Fashion accessories; Reference-driven"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -699,7 +752,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-07.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the wristwatch case shape, dial layout, strap material, metal highlights, and proportions while avoiding visible brand emphasis. Create a luxury ecommerce advertising image on dark walnut wood with a black reflective backdrop, dramatic side lighting, and precise highlights on the metal. Keep the watch clearly recognizable. No readable text, leave upper-right negative space.",
     "reference_image": "assets/reference/MKT-07_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Fossil_wristwatch_with_white_background.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Fossil_wristwatch_with_white_background.jpg",
+    "tags": "Advertising & E-commerce; Fashion accessories; Reference-driven"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -712,7 +766,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-08.png",
     "prompt": "Create a bright app marketing key visual for a fictional food delivery service. Show a smartphone mockup with a simplified blank app screen, colorful bowls of noodles, salad, and juice arranged around it, top-down composition, energetic but clean advertising style, no logos, no readable text. Leave space for a campaign headline.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Food delivery; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -725,7 +780,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-08.png",
     "prompt": "Create a bright app marketing key visual for a fictional food delivery service. Show a smartphone mockup with a simplified blank app screen, colorful bowls of noodles, salad, and juice arranged around it, top-down composition, energetic but clean advertising style, no logos, no readable text. Leave space for a campaign headline.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Food delivery; No-text production asset"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -738,7 +794,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-09.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the round cream jar, open lid, cream texture, container color, and top-down product structure. Create a clean Japanese ecommerce beauty poster with soft white studio background, fresh water texture, and delicate blue accents. Keep the product recognizable. Do not render any text; leave a blank headline area for Japanese copy to be added later.",
     "reference_image": "assets/reference/MKT-09_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Cream_in_round_container.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Cream_in_round_container.jpg",
+    "tags": "Advertising & E-commerce; Multilingual ad; Reference-driven; No-text production asset; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -751,7 +808,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-09.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the round cream jar, open lid, cream texture, container color, and top-down product structure. Create a clean Japanese ecommerce beauty poster with soft white studio background, fresh water texture, and delicate blue accents. Keep the product recognizable. Do not render any text; leave a blank headline area for Japanese copy to be added later.",
     "reference_image": "assets/reference/MKT-09_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Cream_in_round_container.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Cream_in_round_container.jpg",
+    "tags": "Advertising & E-commerce; Multilingual ad; Reference-driven; No-text production asset; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -764,7 +822,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-10.png",
     "prompt": "Create an elegant French ecommerce poster for a fictional unbranded perfume bottle on a pale stone surface with soft rose petals and diffused window light. Include exactly this French headline: \"Un parfum pour chaque matin\". No logo, no extra readable text. Premium beauty advertising layout, realistic commercial photography.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Multilingual ad; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -777,7 +836,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-10.png",
     "prompt": "Create an elegant French ecommerce poster for a fictional unbranded perfume bottle on a pale stone surface with soft rose petals and diffused window light. Include exactly this French headline: \"Un parfum pour chaque matin\". No logo, no extra readable text. Premium beauty advertising layout, realistic commercial photography.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Multilingual ad; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -790,7 +850,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-11.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the shoe's color blocking, sole shape, lace structure, and silhouette while removing brand emphasis. Create a Spanish ecommerce campaign banner layout with warm orange and white studio background, energetic retail composition, and clean negative space for Spanish headline. Keep the product recognizable. No readable text.",
     "reference_image": "assets/reference/MKT-11_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg",
+    "tags": "Advertising & E-commerce; Multilingual ad; Reference-driven; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -803,7 +864,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-11.png",
     "prompt": "Use Image 1 as the exact product reference. Preserve the shoe's color blocking, sole shape, lace structure, and silhouette while removing brand emphasis. Create a Spanish ecommerce campaign banner layout with warm orange and white studio background, energetic retail composition, and clean negative space for Spanish headline. Keep the product recognizable. No readable text.",
     "reference_image": "assets/reference/MKT-11_reference.jpg",
-    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg"
+    "reference_url": "https://commons.wikimedia.org/wiki/File:Salomon_trail_running_shoes_women_Speedcross.jpg",
+    "tags": "Advertising & E-commerce; Multilingual ad; Reference-driven; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -816,7 +878,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-12.png",
     "prompt": "Create an Arabic ecommerce campaign visual for a fictional compact wireless speaker, premium black product on a warm desert-inspired beige background with subtle sound waves. Include exactly this Arabic headline: \"صوت نقي في كل مكان\". No logo, no extra readable text. High-end realistic advertising photography, balanced layout.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Multilingual ad"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -829,7 +892,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-12.png",
     "prompt": "Create an Arabic ecommerce campaign visual for a fictional compact wireless speaker, premium black product on a warm desert-inspired beige background with subtle sound waves. Include exactly this Arabic headline: \"صوت نقي في كل مكان\". No logo, no extra readable text. High-end realistic advertising photography, balanced layout.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Multilingual ad"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -842,7 +906,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-13.png",
     "prompt": "Create a Chinese ecommerce poster for a fictional smart desk lamp in a modern workspace. Cool white light, clean desk, laptop and notebook props, premium productivity aesthetic. Include exactly this Chinese headline: 「让灵感更明亮」. No logo, no other readable text. Realistic commercial product photography.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Multilingual ad; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -855,7 +920,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-13.png",
     "prompt": "Create a Chinese ecommerce poster for a fictional smart desk lamp in a modern workspace. Cool white light, clean desk, laptop and notebook props, premium productivity aesthetic. Include exactly this Chinese headline: 「让灵感更明亮」. No logo, no other readable text. Realistic commercial product photography.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Multilingual ad; Poster & Key Art"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -868,7 +934,8 @@ window.SHOWCASE_CASES = [
     "image": "assets/qwen-image-2.0-pro_MKT-14.png",
     "prompt": "Create a realistic user-generated-content style ecommerce ad frame for a fictional insulated travel mug. A young adult hand holds the mug near a train station cafe table, natural candid lighting, authentic lifestyle photography, shallow depth of field, social ad composition, no visible brand, no readable text, space at bottom for caption overlay.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Social commerce"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -881,6 +948,2079 @@ window.SHOWCASE_CASES = [
     "image": "assets/wan2.7-image_MKT-14.png",
     "prompt": "Create a realistic user-generated-content style ecommerce ad frame for a fictional insulated travel mug. A young adult hand holds the mug near a train station cafe table, natural candid lighting, authentic lifestyle photography, shallow depth of field, social ad composition, no visible brand, no readable text, space at bottom for caption overlay.",
     "reference_image": "",
-    "reference_url": ""
+    "reference_url": "",
+    "tags": "Advertising & E-commerce; Social commerce"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-02",
+    "subject": "US prestige drama",
+    "scene": "Cinematic interrogation storyboard",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-02.png",
+    "prompt": "Create a 3-panel widescreen storyboard contact sheet for a US prestige crime drama interrogation scene. Panel 1 wide establishing shot through one-way glass, Panel 2 over-the-shoulder detective questioning a suspect, Panel 3 close-up of the suspect under harsh fluorescent light. Realistic casting diversity, restrained color grade, natural acting, clear cinematic blocking, blank caption bars under each panel, no readable text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Crime; Drama; Storyboard; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-02",
+    "subject": "US prestige drama",
+    "scene": "Cinematic interrogation storyboard",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-02.png",
+    "prompt": "Create a 3-panel widescreen storyboard contact sheet for a US prestige crime drama interrogation scene. Panel 1 wide establishing shot through one-way glass, Panel 2 over-the-shoulder detective questioning a suspect, Panel 3 close-up of the suspect under harsh fluorescent light. Realistic casting diversity, restrained color grade, natural acting, clear cinematic blocking, blank caption bars under each panel, no readable text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Crime; Drama; Storyboard; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-03",
+    "subject": "Chinese short drama",
+    "scene": "Vertical costume microdrama poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-03.png",
+    "prompt": "Create a vertical key poster for a Chinese costume short drama. A young noblewoman in pale green Hanfu stands before a palace gate at dusk, holding a jade hairpin; a shadowed prince is behind her. Romantic revenge mood, premium short-drama poster composition, elegant title space. Include only this Chinese title in clean calligraphy: 「玉簪归来」. No extra text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; Romance; Drama; Poster & Key Art; Costume Design; Chinese text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-03",
+    "subject": "Chinese short drama",
+    "scene": "Vertical costume microdrama poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-03.png",
+    "prompt": "Create a vertical key poster for a Chinese costume short drama. A young noblewoman in pale green Hanfu stands before a palace gate at dusk, holding a jade hairpin; a shadowed prince is behind her. Romantic revenge mood, premium short-drama poster composition, elegant title space. Include only this Chinese title in clean calligraphy: 「玉簪归来」. No extra text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; Romance; Drama; Poster & Key Art; Costume Design; Chinese text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-04",
+    "subject": "Chinese donghua",
+    "scene": "Donghua xianxia character line art sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-04.png",
+    "prompt": "Create a Chinese donghua xianxia character design line-art sheet for animation production. One young male cultivator with long hair, layered robes, sword tassel, and cloud motifs. Show front view, side view, back view, weapon detail, and two gesture poses. Clean black line art with light blue construction lines, white background, blank label spaces, consistent proportions, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; Character Design; Line Art; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-04",
+    "subject": "Chinese donghua",
+    "scene": "Donghua xianxia character line art sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-04.png",
+    "prompt": "Create a Chinese donghua xianxia character design line-art sheet for animation production. One young male cultivator with long hair, layered robes, sword tassel, and cloud motifs. Show front view, side view, back view, weapon detail, and two gesture poses. Clean black line art with light blue construction lines, white background, blank label spaces, consistent proportions, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; Character Design; Line Art; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-06",
+    "subject": "Japanese live-action drama",
+    "scene": "Rainy station drama still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-06.png",
+    "prompt": "Create a realistic Japanese live-action drama still at a small suburban train station during evening rain. A middle-aged woman and her adult son stand apart under separate transparent umbrellas, emotional silence, warm vending machine glow, wet platform reflections, natural acting, 50mm lens, subtle film grain, production-still realism. No readable signage, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Japan; Drama; Production Still; Transparent Asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-06",
+    "subject": "Japanese live-action drama",
+    "scene": "Rainy station drama still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-06.png",
+    "prompt": "Create a realistic Japanese live-action drama still at a small suburban train station during evening rain. A middle-aged woman and her adult son stand apart under separate transparent umbrellas, emotional silence, warm vending machine glow, wet platform reflections, natural acting, 50mm lens, subtle film grain, production-still realism. No readable signage, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Japan; Drama; Production Still; Transparent Asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-07",
+    "subject": "Korean drama",
+    "scene": "K-drama character poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-07.png",
+    "prompt": "Create a vertical character poster for a Korean romantic thriller drama. A Korean prosecutor in a dark suit stands in neon rain outside a courthouse, conflicted expression, city bokeh, elegant noir lighting, premium streaming key art. Include exactly one Korean title near the bottom: 「비밀의 증언」. Leave clean space for billing block but no extra text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Korea; Poland; Thriller; Romance; Drama; Noir; Poster & Key Art; Lighting Study; Korean text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-07",
+    "subject": "Korean drama",
+    "scene": "K-drama character poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-07.png",
+    "prompt": "Create a vertical character poster for a Korean romantic thriller drama. A Korean prosecutor in a dark suit stands in neon rain outside a courthouse, conflicted expression, city bokeh, elegant noir lighting, premium streaming key art. Include exactly one Korean title near the bottom: 「비밀의 증언」. Leave clean space for billing block but no extra text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Korea; Poland; Thriller; Romance; Drama; Noir; Poster & Key Art; Lighting Study; Korean text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-08",
+    "subject": "British period drama",
+    "scene": "Manor house candlelit production still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-08.png",
+    "prompt": "Create a cinematic production still for a British period mystery drama set in 1910. Multiracial household staff and aristocrats gather in a candlelit manor dining room after a shocking announcement. Accurate Edwardian-inspired wardrobe, practical candlelight, layered blocking, restrained performances, painterly but realistic cinematography, no readable text, no modern props.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; UK; Drama; Period drama; Mystery; Production Still; Costume Design; Lighting Study; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-08",
+    "subject": "British period drama",
+    "scene": "Manor house candlelit production still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-08.png",
+    "prompt": "Create a cinematic production still for a British period mystery drama set in 1910. Multiracial household staff and aristocrats gather in a candlelit manor dining room after a shocking announcement. Accurate Edwardian-inspired wardrobe, practical candlelight, layered blocking, restrained performances, painterly but realistic cinematography, no readable text, no modern props.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; UK; Drama; Period drama; Mystery; Production Still; Costume Design; Lighting Study; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-09",
+    "subject": "Latin American telenovela",
+    "scene": "Telenovela relationship poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-09.png",
+    "prompt": "Create a vertical poster for a contemporary Latin American family telenovela. A Latina matriarch stands between two rival siblings in a sunlit hacienda courtyard, emotional tension, warm color grade, elegant wardrobe, polished streaming drama key art. Include exactly one Spanish title: “Herencia de Fuego”. Leave a clean billing area, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Latin America; USA; Spain; Family drama; Drama; Poster & Key Art; Spanish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-09",
+    "subject": "Latin American telenovela",
+    "scene": "Telenovela relationship poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-09.png",
+    "prompt": "Create a vertical poster for a contemporary Latin American family telenovela. A Latina matriarch stands between two rival siblings in a sunlit hacienda courtyard, emotional tension, warm color grade, elegant wardrobe, polished streaming drama key art. Include exactly one Spanish title: “Herencia de Fuego”. Leave a clean billing area, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Latin America; USA; Spain; Family drama; Drama; Poster & Key Art; Spanish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-10",
+    "subject": "African diaspora drama",
+    "scene": "Afrofuturist limited series scene",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-10.png",
+    "prompt": "Create a cinematic still for an Afrofuturist limited series set in a near-future coastal West African city. A Black female engineer examines a glowing clean-energy artifact in a community workshop, woven textiles beside advanced devices, respectful cultural detail, realistic faces, rich natural light, grounded production design, premium sci-fi drama tone. No text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; African diaspora; Drama; Sci-fi; Production Still; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-10",
+    "subject": "African diaspora drama",
+    "scene": "Afrofuturist limited series scene",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-10.png",
+    "prompt": "Create a cinematic still for an Afrofuturist limited series set in a near-future coastal West African city. A Black female engineer examines a glowing clean-energy artifact in a community workshop, woven textiles beside advanced devices, respectful cultural detail, realistic faces, rich natural light, grounded production design, premium sci-fi drama tone. No text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; African diaspora; Drama; Sci-fi; Production Still; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-13",
+    "subject": "Animation props",
+    "scene": "Transparent background fantasy prop sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-13.png",
+    "prompt": "Create an animation prop sheet on a plain transparent-looking checker-free white background: eight separate fantasy props for a streaming animated series, including enchanted compass, brass lantern, folded map, crystal vial, wooden mask, ancient key, travel satchel, and small mechanical bird. Clean isolated objects, consistent hand-painted style, sharp silhouettes, production-ready asset spacing, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Fantasy; Props; Transparent Asset; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-13",
+    "subject": "Animation props",
+    "scene": "Transparent background fantasy prop sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-13.png",
+    "prompt": "Create an animation prop sheet on a plain transparent-looking checker-free white background: eight separate fantasy props for a streaming animated series, including enchanted compass, brass lantern, folded map, crystal vial, wooden mask, ancient key, travel satchel, and small mechanical bird. Clean isolated objects, consistent hand-painted style, sharp silhouettes, production-ready asset spacing, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Fantasy; Props; Transparent Asset; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-01",
+    "subject": "American superhero comics",
+    "scene": "Superhero character production turnaround",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-01.png",
+    "prompt": "Create an original American superhero comic character production sheet, not based on any existing IP. Show one African American female hero in a sleek blue and silver suit: front, side, back views plus four head expressions. Clean white studio background, crisp comic ink, controlled cel shading, accurate proportions, consistent costume details. Use empty margin boxes only; no annotations, no letters, no words, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; USA; Superhero; Character Design; Costume Design"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-01",
+    "subject": "American superhero comics",
+    "scene": "Superhero character production turnaround",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-01.png",
+    "prompt": "Create an original American superhero comic character production sheet, not based on any existing IP. Show one African American female hero in a sleek blue and silver suit: front, side, back views plus four head expressions. Clean white studio background, crisp comic ink, controlled cel shading, accurate proportions, consistent costume details. Use empty margin boxes only; no annotations, no letters, no words, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; USA; Superhero; Character Design; Costume Design"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-05",
+    "subject": "Japanese sports anime",
+    "scene": "Basketball anime team key visual",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-05.png",
+    "prompt": "Create an original Japanese sports anime key visual for a high school basketball series, not any existing franchise. Five teen players sprint across an indoor court, dynamic perspective, clean cel animation, sharp jersey silhouettes, dramatic arena lights. Add exactly one large Japanese title, copied character-for-character: 最後のブザー. No brackets, no subtitle, no other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Japan; Legal; Sports; Japanese text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-11",
+    "subject": "Middle Eastern historical drama",
+    "scene": "Arabic historical palace poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-11.png",
+    "prompt": "Create a vertical poster for a Middle Eastern historical court drama. An Arab scholar and a royal guard stand in a moonlit palace archive with brass lamps, geometric screens, parchment maps, and political intrigue mood. Rich but respectful production design. Add exactly one short Arabic title at the top, copied right-to-left: ظل القصر. No subtitle, no decorative fake letters, no other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; MENA; Drama; Historical; Legal; Political; Poster & Key Art; Set Design; Arabic text; Multilingual text test; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-12",
+    "subject": "Indian streaming thriller",
+    "scene": "Monsoon thriller prop-and-scene board",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-12.png",
+    "prompt": "Create a production design board for an Indian streaming thriller set during Mumbai monsoon. Arrange six clean visual tiles: rain-soaked apartment corridor, evidence envelope, cracked phone, train platform, police jeep reflection, protagonist close-up. Realistic thriller tone, teal and amber grade, consistent lighting. Use plain white separators only. No labels, no title bars, no numbers, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; India; Thriller; Props; Production Board; Lighting Study; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-12",
+    "subject": "Indian streaming thriller",
+    "scene": "Monsoon thriller prop-and-scene board",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-12.png",
+    "prompt": "Create a production design board for an Indian streaming thriller set during Mumbai monsoon. Arrange six clean visual tiles: rain-soaked apartment corridor, evidence envelope, cracked phone, train platform, police jeep reflection, protagonist close-up. Realistic thriller tone, teal and amber grade, consistent lighting. Use plain white separators only. No labels, no title bars, no numbers, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; India; Thriller; Props; Production Board; Lighting Study; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-14",
+    "subject": "Storyboard from references",
+    "scene": "Scene storyboard contact sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-14.png",
+    "prompt": "Create a 6-panel cinematic storyboard sheet for a multicultural ensemble heist series. Same team across panels: East Asian hacker, Black driver, Latina negotiator, Arab architect. Show planning table, elevator entry, security corridor, vault door, silent alarm close-up, rooftop escape. Strong silhouettes, consistent wardrobe colors, clear camera angles. Use clean panel borders only, no captions, no labels, no title, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Heist; Storyboard; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-14",
+    "subject": "Storyboard from references",
+    "scene": "Scene storyboard contact sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-14.png",
+    "prompt": "Create a 6-panel cinematic storyboard sheet for a multicultural ensemble heist series. Same team across panels: East Asian hacker, Black driver, Latina negotiator, Arab architect. Show planning table, elevator entry, security corridor, vault door, silent alarm close-up, rooftop escape. Strong silhouettes, consistent wardrobe colors, clear camera angles. Use clean panel borders only, no captions, no labels, no title, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Heist; Storyboard; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-05",
+    "subject": "Japanese sports anime",
+    "scene": "Basketball anime team key visual",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-05.png",
+    "prompt": "Create an original Japanese sports anime key visual for a high school basketball series, not any existing franchise. Five teen players sprint across an indoor court, dynamic perspective, clean cel animation, sharp jersey silhouettes, dramatic arena lights. Add exactly one large Japanese title: 最後のブザー. The last word must be ブザー, not ブナー. No subtitle, no other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Japan; Legal; Sports; Japanese text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-11",
+    "subject": "Middle Eastern historical drama",
+    "scene": "Arabic historical palace poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-11.png",
+    "prompt": "Create a vertical poster for a Middle Eastern historical court drama. An Arab scholar and a royal guard stand in a moonlit palace archive with brass lamps, geometric screens, parchment maps, and political intrigue mood. Rich but respectful production design. Add exactly one short Arabic title at the top, copied right-to-left: ظل القصر. If exact Arabic text is not possible, leave the title area blank. No subtitle, no fake letters, no other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; MENA; Drama; Historical; Legal; Political; Poster & Key Art; Set Design; Arabic text; Multilingual text test; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-15",
+    "subject": "Turkish dizi",
+    "scene": "Historic waterfront romance key art",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-15.png",
+    "prompt": "Create a vertical key art poster for a Turkish dizi romance set on the Bosphorus. A Turkish architect and a widowed restaurant owner stand on opposite sides of a ferry deck at golden hour, Istanbul skyline in the distance, emotional restraint, elegant wardrobe, premium serialized drama tone. Include exactly one Turkish title: Kalbin Kıyısı. No subtitles, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Turkey; Romance; Drama; Poster & Key Art; Turkish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-15",
+    "subject": "Turkish dizi",
+    "scene": "Historic waterfront romance key art",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-15.png",
+    "prompt": "Create a vertical key art poster for a Turkish dizi romance set on the Bosphorus. A Turkish architect and a widowed restaurant owner stand on opposite sides of a ferry deck at golden hour, Istanbul skyline in the distance, emotional restraint, elegant wardrobe, premium serialized drama tone. Include exactly one Turkish title: Kalbin Kıyısı. No subtitles, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Turkey; Romance; Drama; Poster & Key Art; Turkish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-16",
+    "subject": "Nollywood family drama",
+    "scene": "Lagos ensemble family poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-16.png",
+    "prompt": "Create a vertical poster for a contemporary Nollywood family drama in Lagos. Three generations of a Nigerian family stand in front of a modern compound during a tense reunion: grandmother in elegant gele, ambitious daughter in business attire, musician son, younger cousins. Warm natural light, rich fabrics, grounded emotion, cinematic streaming poster. Include exactly one English title: House on Allen Avenue. No other text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Nigeria; Family drama; Drama; Poster & Key Art; English text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-16",
+    "subject": "Nollywood family drama",
+    "scene": "Lagos ensemble family poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-16.png",
+    "prompt": "Create a vertical poster for a contemporary Nollywood family drama in Lagos. Three generations of a Nigerian family stand in front of a modern compound during a tense reunion: grandmother in elegant gele, ambitious daughter in business attire, musician son, younger cousins. Warm natural light, rich fabrics, grounded emotion, cinematic streaming poster. Include exactly one English title: House on Allen Avenue. No other text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Nigeria; Family drama; Drama; Poster & Key Art; English text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-17",
+    "subject": "Bollywood musical",
+    "scene": "Song sequence costume color board",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-17.png",
+    "prompt": "Create a Bollywood musical costume color board for a rooftop festival song. Arrange six clean tiles showing the same Indian lead couple in different coordinated outfits: marigold yellow, royal blue, crimson, ivory, emerald, and silver. Dance-ready fabrics, jewelry details, monsoon city lights, production design realism, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; India; Music; Dance; Costume Design; Production Board; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-17",
+    "subject": "Bollywood musical",
+    "scene": "Song sequence costume color board",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-17.png",
+    "prompt": "Create a Bollywood musical costume color board for a rooftop festival song. Arrange six clean tiles showing the same Indian lead couple in different coordinated outfits: marigold yellow, royal blue, crimson, ivory, emerald, and silver. Dance-ready fabrics, jewelry details, monsoon city lights, production design realism, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; India; Music; Dance; Costume Design; Production Board; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-18",
+    "subject": "Thai BL drama",
+    "scene": "University romance character poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-18.png",
+    "prompt": "Create a vertical character poster for a Thai university romance drama. Two Thai male students stand under a campus rain tree, one holding a sketchbook and one carrying a guitar case, gentle emotional tension, soft Bangkok afternoon light, tasteful wardrobe, streaming romance polish. Include exactly one Thai title: ใต้เงาฝน. No other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Thailand; Poland; Romance; Drama; Poster & Key Art; Thai text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-18",
+    "subject": "Thai BL drama",
+    "scene": "University romance character poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-18.png",
+    "prompt": "Create a vertical character poster for a Thai university romance drama. Two Thai male students stand under a campus rain tree, one holding a sketchbook and one carrying a guitar case, gentle emotional tension, soft Bangkok afternoon light, tasteful wardrobe, streaming romance polish. Include exactly one Thai title: ใต้เงาฝน. No other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Thailand; Poland; Romance; Drama; Poster & Key Art; Thai text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-19",
+    "subject": "Indonesian horror",
+    "scene": "Rural supernatural horror still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-19.png",
+    "prompt": "Create a realistic production still for an Indonesian supernatural horror film in a rural Javanese village. A young woman in a modest modern outfit stands at the edge of a banyan tree clearing at blue hour, oil lamp glow, distant villagers, humid atmosphere, restrained dread, practical location lighting, no monsters visible, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Indonesia; Horror; Production Still; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-19",
+    "subject": "Indonesian horror",
+    "scene": "Rural supernatural horror still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-19.png",
+    "prompt": "Create a realistic production still for an Indonesian supernatural horror film in a rural Javanese village. A young woman in a modest modern outfit stands at the edge of a banyan tree clearing at blue hour, oil lamp glow, distant villagers, humid atmosphere, restrained dread, practical location lighting, no monsters visible, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Indonesia; Horror; Production Still; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-20",
+    "subject": "Filipino romantic comedy",
+    "scene": "Manila rom-com streaming thumbnail",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-20.png",
+    "prompt": "Create a vertical streaming thumbnail for a Filipino romantic comedy set in Manila. A Filipino bakery owner and a delivery app rider almost collide outside a colorful neighborhood bakery, flour in the air, warm comedy timing, authentic street details, bright but natural color grade. Include exactly one Tagalog title: Maling Hatid. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Philippines; Romance; Comedy; Poster & Key Art; Tagalog text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-20",
+    "subject": "Filipino romantic comedy",
+    "scene": "Manila rom-com streaming thumbnail",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-20.png",
+    "prompt": "Create a vertical streaming thumbnail for a Filipino romantic comedy set in Manila. A Filipino bakery owner and a delivery app rider almost collide outside a colorful neighborhood bakery, flour in the air, warm comedy timing, authentic street details, bright but natural color grade. Include exactly one Tagalog title: Maling Hatid. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Philippines; Romance; Comedy; Poster & Key Art; Tagalog text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-21",
+    "subject": "Nordic noir",
+    "scene": "Detective evidence wall and cold exterior",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-21.png",
+    "prompt": "Create a two-panel production reference image for a Nordic noir limited series. Left panel: Swedish detective office with an evidence wall made of blank photos and red string but no readable notes. Right panel: lone detective walking beside a frozen harbor at dawn. Cold restrained palette, realistic winter clothing, quiet dread, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Nordic; Crime; Noir; Reference-driven; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-21",
+    "subject": "Nordic noir",
+    "scene": "Detective evidence wall and cold exterior",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-21.png",
+    "prompt": "Create a two-panel production reference image for a Nordic noir limited series. Left panel: Swedish detective office with an evidence wall made of blank photos and red string but no readable notes. Right panel: lone detective walking beside a frozen harbor at dawn. Cold restrained palette, realistic winter clothing, quiet dread, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Nordic; Crime; Noir; Reference-driven; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-22",
+    "subject": "French auteur drama",
+    "scene": "Paris apartment natural-light scene",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-22.png",
+    "prompt": "Create a realistic French auteur drama production still in a small Paris apartment kitchen at 7 AM. A Senegalese-French mother and her teenage daughter sit silently after an argument, coffee cups untouched, soft window light, cramped lived-in details, natural acting, 35mm film texture, restrained color, no readable text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; France; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-22",
+    "subject": "French auteur drama",
+    "scene": "Paris apartment natural-light scene",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-22.png",
+    "prompt": "Create a realistic French auteur drama production still in a small Paris apartment kitchen at 7 AM. A Senegalese-French mother and her teenage daughter sit silently after an argument, coffee cups untouched, soft window light, cramped lived-in details, natural acting, 35mm film texture, restrained color, no readable text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; France; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-23",
+    "subject": "German sci-fi",
+    "scene": "Near-future transit VFX concept plate",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-23.png",
+    "prompt": "Create a VFX concept plate for a German near-future sci-fi series. A sleek autonomous tram glides through a rainy Berlin street with subtle holographic wayfinding made of abstract blank shapes, cyclists and commuters, realistic architecture, grounded technology, overcast light, production-ready matte-painting realism. No readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Germany; Sci-fi; VFX; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-23",
+    "subject": "German sci-fi",
+    "scene": "Near-future transit VFX concept plate",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-23.png",
+    "prompt": "Create a VFX concept plate for a German near-future sci-fi series. A sleek autonomous tram glides through a rainy Berlin street with subtle holographic wayfinding made of abstract blank shapes, cyclists and commuters, realistic architecture, grounded technology, overcast light, production-ready matte-painting realism. No readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Germany; Sci-fi; VFX; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-24",
+    "subject": "Spanish heist thriller",
+    "scene": "Mask and costume prop sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-24.png",
+    "prompt": "Create a prop and costume sheet for an original Spanish heist thriller, not based on any existing series. Isolated on clean white background: four distinct anonymous masks, red utility jacket, black gloves, encrypted radio, duffel bag, glass cutter, metro map with blank lines. Realistic materials, production-ready spacing, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Spain; Thriller; Heist; Props; Costume Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-24",
+    "subject": "Spanish heist thriller",
+    "scene": "Mask and costume prop sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-24.png",
+    "prompt": "Create a prop and costume sheet for an original Spanish heist thriller, not based on any existing series. Isolated on clean white background: four distinct anonymous masks, red utility jacket, black gloves, encrypted radio, duffel bag, glass cutter, metro map with blank lines. Realistic materials, production-ready spacing, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Spain; Thriller; Heist; Props; Costume Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-25",
+    "subject": "Brazilian favela drama",
+    "scene": "Rio night exterior scene",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-25.png",
+    "prompt": "Create a respectful cinematic still for a Brazilian urban drama in Rio de Janeiro. A young Afro-Brazilian community organizer walks through a hillside neighborhood at night after a power outage, neighbors with flashlights in windows, distant city lights, grounded realism, dignity, social drama tone, no weapons, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Brazil; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-25",
+    "subject": "Brazilian favela drama",
+    "scene": "Rio night exterior scene",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-25.png",
+    "prompt": "Create a respectful cinematic still for a Brazilian urban drama in Rio de Janeiro. A young Afro-Brazilian community organizer walks through a hillside neighborhood at night after a power outage, neighbors with flashlights in windows, distant city lights, grounded realism, dignity, social drama tone, no weapons, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Brazil; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-26",
+    "subject": "Mexican supernatural mystery",
+    "scene": "Day of the Dead mystery poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-26.png",
+    "prompt": "Create a vertical poster for a Mexican supernatural mystery series. A Mexican forensic photographer stands in a quiet cemetery during Día de Muertos dawn, marigold paths, family candles, faint ghostly silhouette in the background, elegant mystery tone, respectful cultural detail. Include exactly one Spanish title: Las Luces del Alba. No other text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Spain; Mexico; Family drama; Mystery; Poster & Key Art; Spanish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-26",
+    "subject": "Mexican supernatural mystery",
+    "scene": "Day of the Dead mystery poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-26.png",
+    "prompt": "Create a vertical poster for a Mexican supernatural mystery series. A Mexican forensic photographer stands in a quiet cemetery during Día de Muertos dawn, marigold paths, family candles, faint ghostly silhouette in the background, elegant mystery tone, respectful cultural detail. Include exactly one Spanish title: Las Luces del Alba. No other text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Spain; Mexico; Family drama; Mystery; Poster & Key Art; Spanish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-27",
+    "subject": "Native American contemporary drama",
+    "scene": "Reservation community center still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-27.png",
+    "prompt": "Create a realistic production still for a contemporary Native American family drama. Inside a reservation community center basketball court, a young Indigenous coach talks quietly with a teenage player after practice, elders watching from folding chairs, lived-in gym details, warm overhead lights, respectful modern wardrobe, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Native American; USA; Family drama; Drama; Legal; Production Still; No-text production asset; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-27",
+    "subject": "Native American contemporary drama",
+    "scene": "Reservation community center still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-27.png",
+    "prompt": "Create a realistic production still for a contemporary Native American family drama. Inside a reservation community center basketball court, a young Indigenous coach talks quietly with a teenage player after practice, elders watching from folding chairs, lived-in gym details, warm overhead lights, respectful modern wardrobe, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Native American; USA; Family drama; Drama; Legal; Production Still; No-text production asset; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-28",
+    "subject": "Australian Aboriginal mystery",
+    "scene": "Outback procedural key frame",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-28.png",
+    "prompt": "Create a cinematic key frame for an Australian outback mystery series. An Aboriginal detective and a young forensic ranger examine tire tracks near a dry riverbed at sunrise, red earth, practical field gear, respectful contemporary depiction, wide anamorphic composition, natural light, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Australia; Crime; Mystery; Production Still; No-text production asset; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-28",
+    "subject": "Australian Aboriginal mystery",
+    "scene": "Outback procedural key frame",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-28.png",
+    "prompt": "Create a cinematic key frame for an Australian outback mystery series. An Aboriginal detective and a young forensic ranger examine tire tracks near a dry riverbed at sunrise, red earth, practical field gear, respectful contemporary depiction, wide anamorphic composition, natural light, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Australia; Crime; Mystery; Production Still; No-text production asset; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-29",
+    "subject": "Maori fantasy adventure",
+    "scene": "Creature and hero concept sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-29.png",
+    "prompt": "Create a respectful fantasy adventure concept sheet inspired by Aotearoa landscapes without using sacred markings or real tribal designs. Show a young Māori navigator in practical woven-and-leather travel clothing and a friendly river-spirit creature made of mist and stone. Include front hero pose, creature side view, small scale comparison, clean white background, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Aotearoa; Fantasy"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-30",
+    "subject": "Caribbean pirate drama",
+    "scene": "Ship deck lighting variants",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-30.png",
+    "prompt": "Create a production lighting study for an original Caribbean pirate drama. Four square panels show the same ship deck scene with a Black Caribbean captain and mixed crew: dawn fog, noon sun, storm dusk, lantern night. Historically inspired but original wardrobe, practical ship details, consistent blocking, no captions, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Caribbean; Drama; Adventure; Production Board; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-30",
+    "subject": "Caribbean pirate drama",
+    "scene": "Ship deck lighting variants",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-30.png",
+    "prompt": "Create a production lighting study for an original Caribbean pirate drama. Four square panels show the same ship deck scene with a Black Caribbean captain and mixed crew: dawn fog, noon sun, storm dusk, lantern night. Historically inspired but original wardrobe, practical ship details, consistent blocking, no captions, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Caribbean; Drama; Adventure; Production Board; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-31",
+    "subject": "Arab Gulf luxury drama",
+    "scene": "Dubai corporate family poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-31.png",
+    "prompt": "Create a vertical poster for an Arab Gulf corporate family drama. A Gulf Arab businesswoman in elegant modern modest fashion stands in a glass boardroom overlooking Dubai at sunset, two rival relatives reflected behind her, premium family power struggle tone. Include exactly one Arabic title: ميراث الرمل. No subtitle, no logos, no other text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Gulf; Family drama; Drama; Poster & Key Art; Arabic text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-31",
+    "subject": "Arab Gulf luxury drama",
+    "scene": "Dubai corporate family poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-31.png",
+    "prompt": "Create a vertical poster for an Arab Gulf corporate family drama. A Gulf Arab businesswoman in elegant modern modest fashion stands in a glass boardroom overlooking Dubai at sunset, two rival relatives reflected behind her, premium family power struggle tone. Include exactly one Arabic title: ميراث الرمل. No subtitle, no logos, no other text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Gulf; Family drama; Drama; Poster & Key Art; Arabic text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-32",
+    "subject": "Israeli political thriller",
+    "scene": "Control room ensemble still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-32.png",
+    "prompt": "Create a realistic production still for an Israeli political thriller in a crisis control room. A diverse team of analysts, journalists, and negotiators watches blank monitor walls during a tense overnight briefing, practical fluorescent lighting, documentary realism, morally complex tone, no readable text, no flags, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Israel; Thriller; Political; Docudrama; Production Still; Lighting Study; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-32",
+    "subject": "Israeli political thriller",
+    "scene": "Control room ensemble still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-32.png",
+    "prompt": "Create a realistic production still for an Israeli political thriller in a crisis control room. A diverse team of analysts, journalists, and negotiators watches blank monitor walls during a tense overnight briefing, practical fluorescent lighting, documentary realism, morally complex tone, no readable text, no flags, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Israel; Thriller; Political; Docudrama; Production Still; Lighting Study; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-33",
+    "subject": "Egyptian historical epic",
+    "scene": "Ancient city set extension concept",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-33.png",
+    "prompt": "Create a production concept image for an Egyptian historical epic set in an ancient riverside city. Practical foreground set with merchants, scribes, linen costumes, boats on the Nile, and a believable digital set extension of temples in the distance. Museum-informed detail, warm dust light, no readable hieroglyphs, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Egypt; Historical; Set Extension; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-33",
+    "subject": "Egyptian historical epic",
+    "scene": "Ancient city set extension concept",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-33.png",
+    "prompt": "Create a production concept image for an Egyptian historical epic set in an ancient riverside city. Practical foreground set with merchants, scribes, linen costumes, boats on the Nile, and a believable digital set extension of temples in the distance. Museum-informed detail, warm dust light, no readable hieroglyphs, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Egypt; Historical; Set Extension; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-34",
+    "subject": "Persian historical romance",
+    "scene": "Court costume texture sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-34.png",
+    "prompt": "Create a costume texture sheet for a Persian historical romance series. Arrange eight close-up fabric and accessory studies: embroidered robe sleeve, silk sash, turquoise ring, leather boots, veil edge, brass hair ornament, manuscript pouch, patterned cloak. Rich but realistic materials, clean spacing on warm neutral background, no labels, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Persia; Romance; Historical; Legal; Costume Design; Production Board; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-34",
+    "subject": "Persian historical romance",
+    "scene": "Court costume texture sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-34.png",
+    "prompt": "Create a costume texture sheet for a Persian historical romance series. Arrange eight close-up fabric and accessory studies: embroidered robe sleeve, silk sash, turquoise ring, leather boots, veil edge, brass hair ornament, manuscript pouch, patterned cloak. Rich but realistic materials, clean spacing on warm neutral background, no labels, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Persia; Romance; Historical; Legal; Costume Design; Production Board; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-35",
+    "subject": "Queer coming-of-age",
+    "scene": "Prom night ensemble poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-35.png",
+    "prompt": "Create a vertical poster for a queer coming-of-age streaming series. A diverse group of high school seniors stand outside a community center prom at twilight, including Black, Latino, Asian, white, trans, and disabled teens, authentic styling, joyful but grounded emotion, fairy lights, realistic photography. Include exactly one English title: After the Last Song. No extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; LGBTQ; Poster & Key Art; English text; Multilingual text test; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-35",
+    "subject": "Queer coming-of-age",
+    "scene": "Prom night ensemble poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-35.png",
+    "prompt": "Create a vertical poster for a queer coming-of-age streaming series. A diverse group of high school seniors stand outside a community center prom at twilight, including Black, Latino, Asian, white, trans, and disabled teens, authentic styling, joyful but grounded emotion, fairy lights, realistic photography. Include exactly one English title: After the Last Song. No extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; LGBTQ; Poster & Key Art; English text; Multilingual text test; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-36",
+    "subject": "Children's preschool animation",
+    "scene": "Animal town character lineup",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-36.png",
+    "prompt": "Create a preschool animation character lineup on a clean white background. Six original friendly animal neighbors from a small town: fox mail carrier, bear baker, rabbit inventor, turtle librarian, otter firefighter, sparrow musician. Simple appealing shapes, soft colors, consistent proportions, front-facing poses, production-ready spacing, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Kids; Character Lineup; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-36",
+    "subject": "Children's preschool animation",
+    "scene": "Animal town character lineup",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-36.png",
+    "prompt": "Create a preschool animation character lineup on a clean white background. Six original friendly animal neighbors from a small town: fox mail carrier, bear baker, rabbit inventor, turtle librarian, otter firefighter, sparrow musician. Simple appealing shapes, soft colors, consistent proportions, front-facing poses, production-ready spacing, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Kids; Character Lineup; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-37",
+    "subject": "Stop-motion animation",
+    "scene": "Miniature bedroom set design",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-37.png",
+    "prompt": "Create a stop-motion animation set design photo of a miniature child's attic bedroom built from paper, wood, fabric, and tiny practical props. Moonlight through round window, handmade textures, visible scale charm, carefully dressed shelves, warm practical lamp, production workshop realism, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Costume Design; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-37",
+    "subject": "Stop-motion animation",
+    "scene": "Miniature bedroom set design",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-37.png",
+    "prompt": "Create a stop-motion animation set design photo of a miniature child's attic bedroom built from paper, wood, fabric, and tiny practical props. Moonlight through round window, handmade textures, visible scale charm, carefully dressed shelves, warm practical lamp, production workshop realism, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Costume Design; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-38",
+    "subject": "High fantasy streaming series",
+    "scene": "Ensemble character height chart",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-38.png",
+    "prompt": "Create a high fantasy streaming series ensemble height chart on white background. Six original characters: elderly queen, young mapmaker, mountain warrior, desert healer, forest scout, sea captain. Full-body front poses, distinct silhouettes, practical costume cultures, consistent scale, blank base line only, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Fantasy; Character Lineup; Costume Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-38",
+    "subject": "High fantasy streaming series",
+    "scene": "Ensemble character height chart",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-38.png",
+    "prompt": "Create a high fantasy streaming series ensemble height chart on white background. Six original characters: elderly queen, young mapmaker, mountain warrior, desert healer, forest scout, sea captain. Full-body front poses, distinct silhouettes, practical costume cultures, consistent scale, blank base line only, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Fantasy; Character Lineup; Costume Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-39",
+    "subject": "Orbital rescue drama",
+    "scene": "VFX cockpit and ocean planet plate",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-39.png",
+    "prompt": "Create a VFX concept frame for an original orbital rescue drama. Two pilots with different ethnic backgrounds sit in a practical near-future spacecraft cockpit with blank glowing displays, looking toward a massive blue ocean planet outside the window. Realistic set pieces, controlled lens flare, grounded streaming drama tone, no readable text, no logos, no franchise references.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Drama; Sci-fi; VFX; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-39",
+    "subject": "Orbital rescue drama",
+    "scene": "VFX cockpit and ocean planet plate",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-39.png",
+    "prompt": "Create a VFX concept frame for an original orbital rescue drama. Two pilots with different ethnic backgrounds sit in a practical near-future spacecraft cockpit with blank glowing displays, looking toward a massive blue ocean planet outside the window. Realistic set pieces, controlled lens flare, grounded streaming drama tone, no readable text, no logos, no franchise references.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Drama; Sci-fi; VFX; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-40",
+    "subject": "Post-apocalyptic survival",
+    "scene": "Costume weathering and prop board",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-40.png",
+    "prompt": "Create a costume weathering and prop board for an original post-apocalyptic survival drama. Clean arranged objects: patched jacket, dust-covered boots, hand-crank radio, water filter, seed tin, repaired backpack, family photo with blank face detail, field notebook with no readable writing. Realistic wear, neutral background, no labels, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Family drama; Drama; Survival; Post-apocalyptic; Props; Costume Design; Production Board; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-40",
+    "subject": "Post-apocalyptic survival",
+    "scene": "Costume weathering and prop board",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-40.png",
+    "prompt": "Create a costume weathering and prop board for an original post-apocalyptic survival drama. Clean arranged objects: patched jacket, dust-covered boots, hand-crank radio, water filter, seed tin, repaired backpack, family photo with blank face detail, field notebook with no readable writing. Realistic wear, neutral background, no labels, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Family drama; Drama; Survival; Post-apocalyptic; Props; Costume Design; Production Board; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-41",
+    "subject": "Documentary reenactment",
+    "scene": "Historical docudrama courtroom still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-41.png",
+    "prompt": "Create a historically grounded docudrama reenactment still in a 1960s civil rights courtroom. Black attorney, Latina journalist, white judge, and community witnesses are arranged in tense but realistic blocking. Period-accurate wardrobe, natural film grain, respectful documentary tone, blank documents only, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Historical; Period drama; Docudrama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-41",
+    "subject": "Documentary reenactment",
+    "scene": "Historical docudrama courtroom still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-41.png",
+    "prompt": "Create a historically grounded docudrama reenactment still in a 1960s civil rights courtroom. Black attorney, Latina journalist, white judge, and community witnesses are arranged in tense but realistic blocking. Period-accurate wardrobe, natural film grain, respectful documentary tone, blank documents only, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Historical; Period drama; Docudrama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-42",
+    "subject": "Cooking competition reality",
+    "scene": "Studio set and contestant key visual",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-42.png",
+    "prompt": "Create a key visual for an original cooking competition reality series. Diverse contestants cook at individual stations in a bright studio kitchen, judges observing from a clean counter, colorful ingredients, steam, realistic food styling, polished unscripted TV energy. Keep all signage and aprons blank, no logos, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Reality TV; Set Design; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-42",
+    "subject": "Cooking competition reality",
+    "scene": "Studio set and contestant key visual",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-42.png",
+    "prompt": "Create a key visual for an original cooking competition reality series. Diverse contestants cook at individual stations in a bright studio kitchen, judges observing from a clean counter, colorful ingredients, steam, realistic food styling, polished unscripted TV energy. Keep all signage and aprons blank, no logos, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Reality TV; Set Design; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-43",
+    "subject": "Music competition",
+    "scene": "Stage lighting social banner",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-43.png",
+    "prompt": "Create a 16:9 social media banner for an original music competition finale. A South Asian singer, Black guitarist, Latina drummer, and East Asian keyboardist perform on a modern stage, dramatic beams, audience silhouettes, premium broadcast lighting. Leave large clean negative space on the left for later title overlay. No text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Music; Reality TV; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-43",
+    "subject": "Music competition",
+    "scene": "Stage lighting social banner",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-43.png",
+    "prompt": "Create a 16:9 social media banner for an original music competition finale. A South Asian singer, Black guitarist, Latina drummer, and East Asian keyboardist perform on a modern stage, dramatic beams, audience silhouettes, premium broadcast lighting. Leave large clean negative space on the left for later title overlay. No text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Music; Reality TV; Lighting Study; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-44",
+    "subject": "True crime podcast adaptation",
+    "scene": "Evidence object macro key art",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-44.png",
+    "prompt": "Create a vertical key art image for a true-crime podcast adaptation. Macro tabletop still life: cassette recorder, motel key, rain-speckled window reflection, sealed evidence bag with blank label, half-empty coffee, soft police lights outside. Tense restrained mood, realistic photography, no readable text, no gore, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Crime; Poster & Key Art; Production Still; Props; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-29",
+    "subject": "Maori fantasy adventure",
+    "scene": "Creature and hero concept sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-29.png",
+    "prompt": "Create a respectful fantasy adventure visual-development sheet inspired by Aotearoa landscapes without using sacred markings or real tribal designs. Show a young Māori navigator in practical woven-and-leather travel clothing beside a friendly river-spirit creature made of mist and stone. Use clean white background, full-body poses, scale comparison by size only. Absolutely no labels, no annotation boxes, no letters, no words.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Aotearoa; Fantasy"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-44",
+    "subject": "True crime podcast adaptation",
+    "scene": "Evidence object macro key art",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-44.png",
+    "prompt": "Create a vertical key art image for a true-crime podcast adaptation using objects only. Macro tabletop still life: cassette recorder, motel key, rain-speckled window reflection, sealed evidence bag with completely blank label, half-empty coffee, soft police lights outside. Tense restrained mood, realistic photography. No title, no typography, no readable text, no gore, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Crime; Poster & Key Art; Production Still; Props; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-45",
+    "subject": "Polish crime drama",
+    "scene": "Warsaw winter crime still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-45.png",
+    "prompt": "Create a realistic production still for a Polish crime drama in winter Warsaw. A weary female detective and a young tech analyst stand beside a frozen tram stop after midnight, sodium streetlights, breath vapor, practical coats, quiet tension, documentary realism, no readable signage, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Poland; Crime; Drama; Docudrama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-45",
+    "subject": "Polish crime drama",
+    "scene": "Warsaw winter crime still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-45.png",
+    "prompt": "Create a realistic production still for a Polish crime drama in winter Warsaw. A weary female detective and a young tech analyst stand beside a frozen tram stop after midnight, sodium streetlights, breath vapor, practical coats, quiet tension, documentary realism, no readable signage, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Poland; Crime; Drama; Docudrama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-46",
+    "subject": "Italian family saga",
+    "scene": "Sicilian family dinner blocking",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-46.png",
+    "prompt": "Create a cinematic blocking reference for an Italian family saga set in Sicily. A multigenerational family sits around a long outdoor dinner table under lemon trees, unresolved inheritance tension, linen tablecloth, practical sunset light, grounded performances, no weapons, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Italy; Family drama; Reference-driven; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-46",
+    "subject": "Italian family saga",
+    "scene": "Sicilian family dinner blocking",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-46.png",
+    "prompt": "Create a cinematic blocking reference for an Italian family saga set in Sicily. A multigenerational family sits around a long outdoor dinner table under lemon trees, unresolved inheritance tension, linen tablecloth, practical sunset light, grounded performances, no weapons, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Italy; Family drama; Reference-driven; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-47",
+    "subject": "Greek island mystery",
+    "scene": "Island harbor suspect board poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-47.png",
+    "prompt": "Create a vertical poster for a Greek island mystery series. A Greek coast guard investigator stands on a quiet harbor pier at blue hour, fishing boats behind her, one distant villa lit on a cliff, elegant Mediterranean noir mood. Include exactly one Greek title: Σκιές στο Νησί. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Greece; Noir; Mystery; Poster & Key Art; Production Board; Greek text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-47",
+    "subject": "Greek island mystery",
+    "scene": "Island harbor suspect board poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-47.png",
+    "prompt": "Create a vertical poster for a Greek island mystery series. A Greek coast guard investigator stands on a quiet harbor pier at blue hour, fishing boats behind her, one distant villa lit on a cliff, elegant Mediterranean noir mood. Include exactly one Greek title: Σκιές στο Νησί. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Greece; Noir; Mystery; Poster & Key Art; Production Board; Greek text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-48",
+    "subject": "Portuguese music drama",
+    "scene": "Fado club production still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-48.png",
+    "prompt": "Create a realistic production still for a Portuguese music drama inside a small Lisbon fado club. An older singer, a young Cape Verdean guitarist, and a quiet audience share a suspended emotional moment, warm low light, tiled walls, lived-in details, no readable posters, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Portugal; Drama; Music; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-48",
+    "subject": "Portuguese music drama",
+    "scene": "Fado club production still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-48.png",
+    "prompt": "Create a realistic production still for a Portuguese music drama inside a small Lisbon fado club. An older singer, a young Cape Verdean guitarist, and a quiet audience share a suspended emotional moment, warm low light, tiled walls, lived-in details, no readable posters, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Portugal; Drama; Music; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-49",
+    "subject": "Dutch teen sci-fi",
+    "scene": "Canal house lab set design",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-49.png",
+    "prompt": "Create a set design frame for a Dutch teen sci-fi series. Inside an Amsterdam canal house attic, three teenagers assemble a clean-energy prototype from bicycles, glass tubes, and salvaged electronics. Rainy canal visible through window, grounded playful science, realistic props, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Netherlands; Sci-fi; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-49",
+    "subject": "Dutch teen sci-fi",
+    "scene": "Canal house lab set design",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-49.png",
+    "prompt": "Create a set design frame for a Dutch teen sci-fi series. Inside an Amsterdam canal house attic, three teenagers assemble a clean-energy prototype from bicycles, glass tubes, and salvaged electronics. Rainy canal visible through window, grounded playful science, realistic props, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Netherlands; Sci-fi; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-50",
+    "subject": "Sami arctic drama",
+    "scene": "Reindeer migration night scene",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-50.png",
+    "prompt": "Create a respectful cinematic still for a contemporary Sámi Arctic drama. A young Sámi herder checks a GPS collar during reindeer migration under northern lights, snowmobile tracks, practical winter gear, family member waiting near a small fire, natural cold light, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Sami; Family drama; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-50",
+    "subject": "Sami arctic drama",
+    "scene": "Reindeer migration night scene",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-50.png",
+    "prompt": "Create a respectful cinematic still for a contemporary Sámi Arctic drama. A young Sámi herder checks a GPS collar during reindeer migration under northern lights, snowmobile tracks, practical winter gear, family member waiting near a small fire, natural cold light, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Sami; Family drama; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-51",
+    "subject": "Inuit survival thriller",
+    "scene": "Arctic research station key frame",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-51.png",
+    "prompt": "Create a realistic key frame for an Inuit-led Arctic survival thriller. An Inuit climatologist and a rescue pilot inspect a damaged research station door during a whiteout, practical parkas, frost on goggles, tense but grounded atmosphere, no readable labels, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Inuit; Thriller; Survival; Production Still; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-51",
+    "subject": "Inuit survival thriller",
+    "scene": "Arctic research station key frame",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-51.png",
+    "prompt": "Create a realistic key frame for an Inuit-led Arctic survival thriller. An Inuit climatologist and a rescue pilot inspect a damaged research station door during a whiteout, practical parkas, frost on goggles, tense but grounded atmosphere, no readable labels, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Inuit; Thriller; Survival; Production Still; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-52",
+    "subject": "Quebec comedy",
+    "scene": "Winter apartment ensemble thumbnail",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-52.png",
+    "prompt": "Create a vertical streaming thumbnail for a Quebec ensemble comedy. Four neighbors from different backgrounds share a cramped snowy Montreal apartment hallway during a power outage, awkward warmth, winter coats, candles, dry humor, natural photography. Include exactly one French title: Le Palier. No other text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; France; Quebec; Comedy; Poster & Key Art; French text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-52",
+    "subject": "Quebec comedy",
+    "scene": "Winter apartment ensemble thumbnail",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-52.png",
+    "prompt": "Create a vertical streaming thumbnail for a Quebec ensemble comedy. Four neighbors from different backgrounds share a cramped snowy Montreal apartment hallway during a power outage, awkward warmth, winter coats, candles, dry humor, natural photography. Include exactly one French title: Le Palier. No other text or logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; France; Quebec; Comedy; Poster & Key Art; French text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-53",
+    "subject": "Argentine tango noir",
+    "scene": "Buenos Aires dance hall poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-53.png",
+    "prompt": "Create a vertical poster for an Argentine tango noir series. A retired dancer and a young prosecutor face each other in an empty Buenos Aires dance hall, polished wooden floor, smoky window light, mystery tone, elegant wardrobe. Include exactly one Spanish title: La Última Milonga. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Spain; Argentina; Dance; Noir; Mystery; Poster & Key Art; Spanish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-53",
+    "subject": "Argentine tango noir",
+    "scene": "Buenos Aires dance hall poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-53.png",
+    "prompt": "Create a vertical poster for an Argentine tango noir series. A retired dancer and a young prosecutor face each other in an empty Buenos Aires dance hall, polished wooden floor, smoky window light, mystery tone, elegant wardrobe. Include exactly one Spanish title: La Última Milonga. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Spain; Argentina; Dance; Noir; Mystery; Poster & Key Art; Spanish text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-54",
+    "subject": "Chile mining drama",
+    "scene": "Atacama rescue operations board",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-54.png",
+    "prompt": "Create a production operations board for a Chilean mining rescue drama. Six realistic tiles: Atacama desert exterior, mine elevator, rescue engineer close-up, family waiting tent, dusty control room, sunrise over drilling rig. Warm desert palette, blank separators only, no labels, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Chile; Family drama; Drama; Production Board; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-54",
+    "subject": "Chile mining drama",
+    "scene": "Atacama rescue operations board",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-54.png",
+    "prompt": "Create a production operations board for a Chilean mining rescue drama. Six realistic tiles: Atacama desert exterior, mine elevator, rescue engineer close-up, family waiting tent, dusty control room, sunrise over drilling rig. Warm desert palette, blank separators only, no labels, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Chile; Family drama; Drama; Production Board; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-55",
+    "subject": "Peruvian Andes magical realism",
+    "scene": "Mountain village key art",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-55.png",
+    "prompt": "Create a vertical key art poster for a Peruvian Andes magical realism series. A Quechua teenage girl stands on a mountain path at dawn as woven ribbons float gently toward a cloud-shaped condor silhouette, realistic village details, respectful wardrobe, poetic mood. No readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Peru; Magical realism; Poster & Key Art; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-55",
+    "subject": "Peruvian Andes magical realism",
+    "scene": "Mountain village key art",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-55.png",
+    "prompt": "Create a vertical key art poster for a Peruvian Andes magical realism series. A Quechua teenage girl stands on a mountain path at dawn as woven ribbons float gently toward a cloud-shaped condor silhouette, realistic village details, respectful wardrobe, poetic mood. No readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Peru; Magical realism; Poster & Key Art; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-56",
+    "subject": "Colombian newsroom drama",
+    "scene": "Bogota investigative newsroom still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-56.png",
+    "prompt": "Create a realistic production still for a Colombian investigative newsroom drama in Bogotá. Afro-Colombian editor, young reporter, and Indigenous photographer review blank documents on a cluttered desk, rainy city windows, moral pressure, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Colombia; Crime; Drama; Production Still; No-text production asset; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-56",
+    "subject": "Colombian newsroom drama",
+    "scene": "Bogota investigative newsroom still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-56.png",
+    "prompt": "Create a realistic production still for a Colombian investigative newsroom drama in Bogotá. Afro-Colombian editor, young reporter, and Indigenous photographer review blank documents on a cluttered desk, rainy city windows, moral pressure, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Colombia; Crime; Drama; Production Still; No-text production asset; Indigenous representation"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-57",
+    "subject": "Cuban music period drama",
+    "scene": "Havana recording studio still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-57.png",
+    "prompt": "Create a cinematic still for a Cuban 1950s music period drama in a Havana recording studio. Afro-Cuban singer, trumpet player, sound engineer, vintage microphone, warm tungsten light, worn acoustic panels, cigarette haze, historically inspired wardrobe, no readable posters, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Cuba; Drama; Period drama; Music; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-57",
+    "subject": "Cuban music period drama",
+    "scene": "Havana recording studio still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-57.png",
+    "prompt": "Create a cinematic still for a Cuban 1950s music period drama in a Havana recording studio. Afro-Cuban singer, trumpet player, sound engineer, vintage microphone, warm tungsten light, worn acoustic panels, cigarette haze, historically inspired wardrobe, no readable posters, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Cuba; Drama; Period drama; Music; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-58",
+    "subject": "Jamaican dancehall drama",
+    "scene": "Kingston street dance key frame",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-58.png",
+    "prompt": "Create a respectful cinematic key frame for a Jamaican dancehall drama. A young choreographer leads rehearsal in a Kingston courtyard after rain, dancers of varied ages watching, sound system speakers with blank surfaces, vibrant but realistic color, no readable graffiti, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Jamaica; Drama; Dance; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-58",
+    "subject": "Jamaican dancehall drama",
+    "scene": "Kingston street dance key frame",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-58.png",
+    "prompt": "Create a respectful cinematic key frame for a Jamaican dancehall drama. A young choreographer leads rehearsal in a Kingston courtyard after rain, dancers of varied ages watching, sound system speakers with blank surfaces, vibrant but realistic color, no readable graffiti, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Jamaica; Drama; Dance; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-59",
+    "subject": "Pacific island climate drama",
+    "scene": "Storm evacuation ensemble still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-59.png",
+    "prompt": "Create a realistic ensemble still for a Pacific island climate drama. A Polynesian family and local nurse prepare a community hall for storm evacuation, woven mats, medical supplies, children helping, tropical rain outside, dignity and urgency, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Pacific Islands; Family drama; Drama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-59",
+    "subject": "Pacific island climate drama",
+    "scene": "Storm evacuation ensemble still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-59.png",
+    "prompt": "Create a realistic ensemble still for a Pacific island climate drama. A Polynesian family and local nurse prepare a community hall for storm evacuation, woven mats, medical supplies, children helping, tropical rain outside, dignity and urgency, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Pacific Islands; Family drama; Drama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-60",
+    "subject": "Vietnamese period drama",
+    "scene": "Imperial court costume sheet",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-60.png",
+    "prompt": "Create a costume design sheet for a Vietnamese imperial court drama. Arrange eight production studies: embroidered áo dài sleeve, royal hat silhouette, lacquer fan, silk sash, jade earring, ceremonial boot, patterned robe panel, hairpin. Elegant historical inspiration, clean spacing, no labels, no text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Vietnam; Drama; Historical; Period drama; Legal; Costume Design; Production Board"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-61",
+    "subject": "Malaysian food drama",
+    "scene": "Night market cooking still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-61.png",
+    "prompt": "Create a realistic production still for a Malaysian family food drama at a night market in Penang. Malay grandmother teaches her Chinese Malaysian and Indian Malaysian grandchildren to prepare noodles, steam, neon reflections, crowded but believable stalls with blank signs, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; India; Malaysia; Family drama; Drama; Reality TV; Production Still; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-61",
+    "subject": "Malaysian food drama",
+    "scene": "Night market cooking still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-61.png",
+    "prompt": "Create a realistic production still for a Malaysian family food drama at a night market in Penang. Malay grandmother teaches her Chinese Malaysian and Indian Malaysian grandchildren to prepare noodles, steam, neon reflections, crowded but believable stalls with blank signs, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; India; Malaysia; Family drama; Drama; Reality TV; Production Still; No-text production asset; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-62",
+    "subject": "Singapore legal thriller",
+    "scene": "Court corridor character poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-62.png",
+    "prompt": "Create a vertical character poster for a Singapore legal thriller. A Singaporean public defender stands in a courthouse corridor between glass walls, diverse clients reflected behind her, humid city light, precise professional wardrobe, premium thriller tone. Include exactly one English title: Reasonable Doubt. No other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Singapore; Thriller; Legal; Poster & Key Art; English text; Multilingual text test; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-62",
+    "subject": "Singapore legal thriller",
+    "scene": "Court corridor character poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-62.png",
+    "prompt": "Create a vertical character poster for a Singapore legal thriller. A Singaporean public defender stands in a courthouse corridor between glass walls, diverse clients reflected behind her, humid city light, precise professional wardrobe, premium thriller tone. Include exactly one English title: Reasonable Doubt. No other text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Singapore; Thriller; Legal; Poster & Key Art; English text; Multilingual text test; Diverse casting"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-63",
+    "subject": "Hong Kong police thriller",
+    "scene": "Neon alley chase storyboard",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-63.png",
+    "prompt": "Create a 6-panel storyboard sheet for an original Hong Kong police thriller. Same detective chases a suspect through wet neon alleys, market shutters, footbridge, stairwell, ferry pier, rooftop. Strong camera angles, motion clarity, blank panel borders only, no captions, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Hong Kong; Crime; Thriller; Storyboard; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-63",
+    "subject": "Hong Kong police thriller",
+    "scene": "Neon alley chase storyboard",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-63.png",
+    "prompt": "Create a 6-panel storyboard sheet for an original Hong Kong police thriller. Same detective chases a suspect through wet neon alleys, market shutters, footbridge, stairwell, ferry pier, rooftop. Strong camera angles, motion clarity, blank panel borders only, no captions, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Hong Kong; Crime; Thriller; Storyboard; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-64",
+    "subject": "Taiwan family drama",
+    "scene": "Apartment balcony relationship poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-64.png",
+    "prompt": "Create a vertical poster for a Taiwanese family drama. Three siblings stand on different balconies of an old Taipei apartment block at sunset, mother watching from a kitchen window, emotional distance, soft realism. Include exactly one Traditional Chinese title: 巷口的晚風. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; Taiwan; Family drama; Drama; Poster & Key Art; Chinese text; Traditional Chinese text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-64",
+    "subject": "Taiwan family drama",
+    "scene": "Apartment balcony relationship poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-64.png",
+    "prompt": "Create a vertical poster for a Taiwanese family drama. Three siblings stand on different balconies of an old Taipei apartment block at sunset, mother watching from a kitchen window, emotional distance, soft realism. Include exactly one Traditional Chinese title: 巷口的晚風. No subtitle, no logos, no extra text.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; China; Taiwan; Family drama; Drama; Poster & Key Art; Chinese text; Traditional Chinese text; Multilingual text test"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-65",
+    "subject": "Mongolian frontier drama",
+    "scene": "Steppe horse camp key frame",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-65.png",
+    "prompt": "Create a cinematic key frame for a Mongolian frontier family drama. A young horse trainer and her grandfather repair a saddle beside a ger at dawn, vast steppe, practical clothing, horses grazing, quiet emotional realism, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Mongolia; Family drama; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-65",
+    "subject": "Mongolian frontier drama",
+    "scene": "Steppe horse camp key frame",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-65.png",
+    "prompt": "Create a cinematic key frame for a Mongolian frontier family drama. A young horse trainer and her grandfather repair a saddle beside a ger at dawn, vast steppe, practical clothing, horses grazing, quiet emotional realism, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Mongolia; Family drama; Drama; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-66",
+    "subject": "Kazakh road movie",
+    "scene": "Desert highway car interior still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-66.png",
+    "prompt": "Create a production still for a Kazakh road movie. Two sisters sit in an old sedan parked beside a vast desert highway at sunset, one holding a paper map with no readable marks, distant mountains, dusty windshield, understated emotion, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Kazakhstan; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-66",
+    "subject": "Kazakh road movie",
+    "scene": "Desert highway car interior still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-66.png",
+    "prompt": "Create a production still for a Kazakh road movie. Two sisters sit in an old sedan parked beside a vast desert highway at sunset, one holding a paper map with no readable marks, distant mountains, dusty windshield, understated emotion, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Kazakhstan; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-67",
+    "subject": "Uzbek silk road historical",
+    "scene": "Market set extension frame",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-67.png",
+    "prompt": "Create a production concept frame for an Uzbek Silk Road historical drama. Practical foreground market set with merchants, ceramics, textiles, bread ovens, and a digital set extension of Samarkand-inspired architecture in the distance. Warm dust light, respectful historical detail, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Uzbekistan; Drama; Historical; Set Extension; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-67",
+    "subject": "Uzbek silk road historical",
+    "scene": "Market set extension frame",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-67.png",
+    "prompt": "Create a production concept frame for an Uzbek Silk Road historical drama. Practical foreground market set with merchants, ceramics, textiles, bread ovens, and a digital set extension of Samarkand-inspired architecture in the distance. Warm dust light, respectful historical detail, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Uzbekistan; Drama; Historical; Set Extension; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-68",
+    "subject": "Pakistani social drama",
+    "scene": "Lahore wedding family still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-68.png",
+    "prompt": "Create a realistic production still for a Pakistani social drama during a Lahore wedding. Bride's sister and groom's mother exchange a tense glance in a decorated courtyard, family members in background, elegant shalwar kameez, warm fairy lights, natural acting, no readable banners, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Pakistan; Family drama; Drama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-68",
+    "subject": "Pakistani social drama",
+    "scene": "Lahore wedding family still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-68.png",
+    "prompt": "Create a realistic production still for a Pakistani social drama during a Lahore wedding. Bride's sister and groom's mother exchange a tense glance in a decorated courtyard, family members in background, elegant shalwar kameez, warm fairy lights, natural acting, no readable banners, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Pakistan; Family drama; Drama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-69",
+    "subject": "Bangladeshi river drama",
+    "scene": "Monsoon ferry ensemble still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-69.png",
+    "prompt": "Create a cinematic still for a Bangladeshi river drama during monsoon season. A ferry captain, garment worker, student, and grandmother wait under tarps on a crowded river ferry, grey sky, wet fabric, humanistic tone, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Bangladesh; Drama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-69",
+    "subject": "Bangladeshi river drama",
+    "scene": "Monsoon ferry ensemble still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-69.png",
+    "prompt": "Create a cinematic still for a Bangladeshi river drama during monsoon season. A ferry captain, garment worker, student, and grandmother wait under tarps on a crowded river ferry, grey sky, wet fabric, humanistic tone, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Bangladesh; Drama; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-70",
+    "subject": "Ethiopian historical drama",
+    "scene": "Highland palace council scene",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-70.png",
+    "prompt": "Create a production still for an Ethiopian historical drama in a highland palace council chamber. Noblewoman advisor, young ruler, and veteran general discuss a map with no readable markings, woven textiles, carved wood, warm window light, respectful historical inspiration, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Ethiopia; Drama; Historical; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-70",
+    "subject": "Ethiopian historical drama",
+    "scene": "Highland palace council scene",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-70.png",
+    "prompt": "Create a production still for an Ethiopian historical drama in a highland palace council chamber. Noblewoman advisor, young ruler, and veteran general discuss a map with no readable markings, woven textiles, carved wood, warm window light, respectful historical inspiration, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Ethiopia; Drama; Historical; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-71",
+    "subject": "Moroccan noir",
+    "scene": "Casablanca rooftop thriller still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-71.png",
+    "prompt": "Create a realistic production still for a Moroccan noir thriller in Casablanca. A Moroccan private investigator meets a French-Moroccan journalist on a rooftop overlooking white apartment blocks at dusk, Atlantic haze, restrained costumes, tense conversation, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; France; Morocco; Thriller; Noir; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-71",
+    "subject": "Moroccan noir",
+    "scene": "Casablanca rooftop thriller still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-71.png",
+    "prompt": "Create a realistic production still for a Moroccan noir thriller in Casablanca. A Moroccan private investigator meets a French-Moroccan journalist on a rooftop overlooking white apartment blocks at dusk, Atlantic haze, restrained costumes, tense conversation, no readable signs, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; France; Morocco; Thriller; Noir; Production Still"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-72",
+    "subject": "South African township detective",
+    "scene": "Johannesburg community case still",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-72.png",
+    "prompt": "Create a respectful production still for a South African township detective series. A Black female detective speaks with a community elder outside a small clinic in Johannesburg, children playing nearby, late afternoon light, grounded social mystery tone, no weapons, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; South Africa; Crime; Drama; Mystery; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-72",
+    "subject": "South African township detective",
+    "scene": "Johannesburg community case still",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-72.png",
+    "prompt": "Create a respectful production still for a South African township detective series. A Black female detective speaks with a community elder outside a small clinic in Johannesburg, children playing nearby, late afternoon light, grounded social mystery tone, no weapons, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; South Africa; Crime; Drama; Mystery; Production Still; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-73",
+    "subject": "Kenyan tech thriller",
+    "scene": "Nairobi startup surveillance board",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-73.png",
+    "prompt": "Create a production design board for a Kenyan tech thriller set in Nairobi. Six clean tiles: startup office at night, motorcycle courier, blank phone UI, rooftop antenna, data center hallway, protagonist close-up. Contemporary African tech tone, green and amber color grade, plain separators only, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Kenya; Thriller; Production Board; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-73",
+    "subject": "Kenyan tech thriller",
+    "scene": "Nairobi startup surveillance board",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-73.png",
+    "prompt": "Create a production design board for a Kenyan tech thriller set in Nairobi. Six clean tiles: startup office at night, motorcycle courier, blank phone UI, rooftop antenna, data center hallway, protagonist close-up. Contemporary African tech tone, green and amber color grade, plain separators only, no labels, no text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Kenya; Thriller; Production Board; Set Design; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-74",
+    "subject": "Roma family road drama",
+    "scene": "Traveling music family poster",
+    "model": "qwen-image-2.0-pro",
+    "status": "ok",
+    "image": "assets/qwen-image-2.0-pro_FTV-74.png",
+    "prompt": "Create a respectful vertical poster for a Roma family road drama in contemporary Europe. A grandmother violinist, teenage singer, and younger sibling stand beside a modest van at sunrise after a performance, lived-in clothing, musical instruments, tenderness and resilience, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Roma; Family drama; Drama; Music; Poster & Key Art; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-74",
+    "subject": "Roma family road drama",
+    "scene": "Traveling music family poster",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-74.png",
+    "prompt": "Create a respectful vertical poster for a Roma family road drama in contemporary Europe. A grandmother violinist, teenage singer, and younger sibling stand beside a modest van at sunrise after a performance, lived-in clothing, musical instruments, tenderness and resilience, no readable text, no logos.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Roma; Family drama; Drama; Music; Poster & Key Art; No-text production asset"
+  },
+  {
+    "collection": "Film & TV",
+    "industry": "Film & TV",
+    "case_id": "FTV-60",
+    "subject": "Vietnamese period drama",
+    "scene": "Imperial court costume sheet",
+    "model": "wan2.7-image",
+    "status": "ok",
+    "image": "assets/wan2.7-image_FTV-60.png",
+    "prompt": "Create a costume design sheet for a Vietnamese imperial court drama. Arrange eight production studies: embroidered áo dài sleeve, royal hat silhouette, lacquer fan, silk sash, jade earring, ceremonial boot, patterned robe panel, hairpin. Elegant historical inspiration, clean spacing on a plain neutral background. Absolutely no title, no labels, no annotation boxes, no words, no letters.",
+    "reference_image": "",
+    "reference_url": "",
+    "tags": "Film & TV; Vietnam; Drama; Historical; Period drama; Legal; Costume Design; Production Board"
   }
 ];
