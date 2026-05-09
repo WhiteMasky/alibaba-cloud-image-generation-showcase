@@ -356,6 +356,8 @@ main {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
+  content-visibility: auto;
+  contain-intrinsic-size: 420px;
 }
 
 .case-card img {
@@ -365,6 +367,25 @@ main {
   object-fit: contain;
   background: #fff;
   border-bottom: 1px solid var(--line);
+}
+
+.load-more {
+  display: block;
+  min-height: 44px;
+  margin: 22px auto 0;
+  padding: 0 18px;
+  background: var(--text);
+  border: 0;
+  border-radius: 8px;
+  color: white;
+  font: inherit;
+  font-size: 14px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.load-more[hidden] {
+  display: none;
 }
 
 .case-body {
