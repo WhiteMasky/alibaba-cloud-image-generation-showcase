@@ -73,7 +73,7 @@ def make_payload(model: str, plan: dict[str, str], n: int) -> dict:
         parameters["thinking_mode"] = plan.get("thinking_mode", "true").lower() != "false"
 
     content: list[dict[str, str]] = []
-    reference_url = plan.get("reference_url", "").strip()
+    reference_url = (plan.get("model_reference_url", "") or plan.get("reference_url", "")).strip()
     if reference_url:
         content.append({"image": reference_url})
     content.append({"text": plan["prompt"].strip()})
@@ -199,7 +199,7 @@ def main() -> int:
                     "image": rel_image,
                     "prompt": plan["prompt"],
                     "reference_image": plan.get("reference_image", ""),
-                    "reference_url": plan.get("reference_url", ""),
+                    "reference_url": plan.get("source_url", "") or plan.get("reference_url", ""),
                     "tags": plan.get("tags", ""),
                 }
                 appended.append(row)

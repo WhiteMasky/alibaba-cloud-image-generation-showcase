@@ -1,0 +1,49 @@
+case_id,model,image,authenticity,aesthetics,production_readiness,overall,decision,notes
+FSH-01,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-01.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-01,wan2.7-image,assets/wan2.7-image_FSH-01.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-02,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-02.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-02,wan2.7-image,assets/wan2.7-image_FSH-02.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-03,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-03.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-03,wan2.7-image,assets/wan2.7-image_FSH-03.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-04,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-04.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-04,wan2.7-image,assets/wan2.7-image_FSH-04.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-05,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-05.png,8.0,8.0,8.0,8.0,pass,Useful outfit matrix; barefoot styling is acceptable for fit review but less final-catalog ready.
+FSH-05,wan2.7-image,assets/wan2.7-image_FSH-05.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-06,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-06.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-06,wan2.7-image,assets/wan2.7-image_FSH-06.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-07,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-07.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-07,wan2.7-image,assets/wan2.7-image_FSH-07.png,8.1,8.0,8.0,8.0,pass,Cleaner catalog line-up than first glance; body diversity is more limited than Qwen but usable.
+FSH-08,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-08.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-08,wan2.7-image,assets/wan2.7-image_FSH-08.png,8.5,8.1,8.4,8.3,pass,"Stable e-commerce or lookbook image with credible fit, pose, and fabric behavior."
+FSH-09,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-09.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-09,wan2.7-image,assets/wan2.7-image_FSH-09.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-10,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-10.png,8.1,8.7,8.1,8.3,pass,Strong runway energy; translucent panel is dramatic but plausible as couture.
+FSH-10,wan2.7-image,assets/wan2.7-image_FSH-10.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-11,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-11.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-11,wan2.7-image,assets/wan2.7-image_FSH-11.png,8.6,8.3,8.5,8.5,pass_after_rerun,Rerun removed readable sponsor/signage background.
+FSH-12,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-12.png,8.1,8.5,8.0,8.2,pass,"Good cover image; multilingual masthead is small, still acceptable as auxiliary text test."
+FSH-12,wan2.7-image,assets/wan2.7-image_FSH-12.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-13,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-13.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-13,wan2.7-image,assets/wan2.7-image_FSH-13.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-14,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-14.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-14,wan2.7-image,assets/wan2.7-image_FSH-14.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-15,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-15.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-15,wan2.7-image,assets/wan2.7-image_FSH-15.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-16,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-16.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-16,wan2.7-image,assets/wan2.7-image_FSH-16.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-17,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-17.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-17,wan2.7-image,assets/wan2.7-image_FSH-17.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-18,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-18.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-18,wan2.7-image,assets/wan2.7-image_FSH-18.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-19,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-19.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-19,wan2.7-image,assets/wan2.7-image_FSH-19.png,8.8,8.6,8.7,8.7,pass,Clean product composition with realistic material detail.
+FSH-20,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-20.png,8.7,8.2,8.6,8.5,pass_after_rerun,Rerun produced clearer material labels and cleaner grid.
+FSH-20,wan2.7-image,assets/wan2.7-image_FSH-20.png,8.2,8.2,8.2,8.2,pass,Production-usable after visual review.
+FSH-21,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-21.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-21,wan2.7-image,assets/wan2.7-image_FSH-21.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-22,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-22.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-22,wan2.7-image,assets/wan2.7-image_FSH-22.png,8.0,8.2,8.0,8.1,pass,Location feels authentic; background signage remains secondary and does not break the fashion use case.
+FSH-23,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-23.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-23,wan2.7-image,assets/wan2.7-image_FSH-23.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-24,qwen-image-2.0-pro,assets/qwen-image-2.0-pro_FSH-24.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
+FSH-24,wan2.7-image,assets/wan2.7-image_FSH-24.png,8.4,8.6,8.3,8.4,pass,Production-usable editorial/runway/lifestyle frame with plausible styling and scene logic.
