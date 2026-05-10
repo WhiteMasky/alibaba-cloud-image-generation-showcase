@@ -64,10 +64,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_HUM-03.png",
-    "prompt": "Create a clean English beginner textbook illustration. Two middle-school students stand in a quiet school library and greet each other politely. Use a friendly watercolor textbook style, natural faces and hands, simple bookshelves in the background, and exactly two large empty white speech bubbles. The bubbles must contain no letters, no words, no marks, and no pseudo text. Leave generous blank space for later typesetting.",
+    "prompt": "Create a clean English beginner textbook illustration with two middle-school students greeting each other in a school library. Use friendly watercolor textbook style. Include exactly two large speech bubbles with crisp readable English text. Left bubble exact text: A: Hi, how are you? Right bubble exact text: B: I am fine, thank you. No other text anywhere in the image. Text must be spelled exactly and clearly.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; English; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; English; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -78,10 +78,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_HUM-03.png",
-    "prompt": "Create a clean English beginner textbook illustration. Two middle-school students stand in a quiet school library and greet each other politely. Use a friendly watercolor textbook style, natural faces and hands, simple bookshelves in the background, and exactly two large empty white speech bubbles. The bubbles must contain no letters, no words, no marks, and no pseudo text. Leave generous blank space for later typesetting.",
+    "prompt": "Create a clean English beginner textbook illustration with two middle-school students greeting each other in a school library. Use friendly watercolor textbook style. Include exactly two large speech bubbles with crisp readable English text. Left bubble exact text: A: Hi, how are you? Right bubble exact text: B: I am fine, thank you. No other text anywhere in the image. Text must be spelled exactly and clearly.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; English; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; English; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -92,10 +92,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_HUM-04.png",
-    "prompt": "Create a clean Japanese beginner textbook illustration. Two Japanese high-school students stand near a classroom window and greet each other politely. Soft watercolor textbook style, natural uniforms, simple classroom background without writing on boards or posters, and exactly two large empty white speech bubbles. The bubbles must be completely blank with no Japanese characters, no letters, no marks, no pseudo text. Leave space for later Japanese typesetting.",
+    "prompt": "Create a clean Japanese beginner textbook illustration with two Japanese high-school students greeting each other near a classroom window. Use soft educational anime-watercolor style. Include exactly two large speech bubbles with crisp readable Japanese text. Left bubble exact text: A: おはようございます。 Right bubble exact text: B: おはよう。今日は何を勉強しますか。 No other text anywhere in the image. Characters must be clear and not distorted.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Japanese; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Japanese; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -106,10 +106,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_HUM-04.png",
-    "prompt": "Create a clean Japanese beginner textbook illustration. Two Japanese high-school students stand near a classroom window and greet each other politely. Soft watercolor textbook style, natural uniforms, simple classroom background without writing on boards or posters, and exactly two large empty white speech bubbles. The bubbles must be completely blank with no Japanese characters, no letters, no marks, no pseudo text. Leave space for later Japanese typesetting.",
+    "prompt": "Create a clean Japanese beginner textbook illustration with two Japanese high-school students greeting each other near a classroom window. Use soft educational anime-watercolor style. Include exactly two large speech bubbles with crisp readable Japanese text. Left bubble exact text: A: おはようございます。 Right bubble exact text: B: おはよう。今日は何を勉強しますか。 No other text anywhere in the image. Characters must be clear and not distorted.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Japanese; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Japanese; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -120,10 +120,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_HUM-05.png",
-    "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students greet each other in a bright school hallway. Use a clean educational manga-watercolor hybrid style suitable for a printed workbook. Include exactly two large empty speech bubbles and no text anywhere in the image: no signs, no blackboard writing, no posters, no labels, no pseudo text. Clear faces, natural hands, balanced composition.",
+    "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students greet each other in a bright school hallway. Include exactly two speech bubbles with readable Japanese text. Left bubble exact text: A: おはようございます。 Right bubble exact text: B: おはよう。今日は何を勉強しますか。 No other text, no signs, no board writing. Text must be accurate and clean.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Japanese; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Japanese; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -134,10 +134,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_HUM-05.png",
-    "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students greet each other in a bright school hallway. Use a clean educational manga-watercolor hybrid style suitable for a printed workbook. Include exactly two large empty speech bubbles and no text anywhere in the image: no signs, no blackboard writing, no posters, no labels, no pseudo text. Clear faces, natural hands, balanced composition.",
+    "prompt": "Create a Japanese language textbook illustration for beginner learners. Two students greet each other in a bright school hallway. Include exactly two speech bubbles with readable Japanese text. Left bubble exact text: A: おはようございます。 Right bubble exact text: B: おはよう。今日は何を勉強しますか。 No other text, no signs, no board writing. Text must be accurate and clean.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Japanese; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Japanese; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -148,10 +148,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_HUM-06.png",
-    "prompt": "Create a French beginner textbook illustration. Two young people meet outside a small Paris-style cafe on a quiet street and greet each other politely. Soft friendly watercolor style, light European street details, no storefront text, no menus, no signs, no brand names. Add exactly two large empty white speech bubbles with no letters, no words, no punctuation, no pseudo text. Leave space for later French typesetting.",
+    "prompt": "Create a French beginner textbook illustration. Two young people meet outside a small Paris-style cafe and greet each other politely. Include exactly two large speech bubbles with crisp readable French text. Left bubble exact text: A: Bonjour, comment ça va ? Right bubble exact text: B: Très bien, merci. No other text anywhere in the image. Accents must be correct.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; French; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; French; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -162,10 +162,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_HUM-06.png",
-    "prompt": "Create a French beginner textbook illustration. Two young people meet outside a small Paris-style cafe on a quiet street and greet each other politely. Soft friendly watercolor style, light European street details, no storefront text, no menus, no signs, no brand names. Add exactly two large empty white speech bubbles with no letters, no words, no punctuation, no pseudo text. Leave space for later French typesetting.",
+    "prompt": "Create a French beginner textbook illustration. Two young people meet outside a small cafe. Include exactly two large speech bubbles with very large crisp French text. Left bubble exact text: Salut ! Right bubble exact text: Oui. No other text in the bubbles. The words must be spelled exactly.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; French; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; French; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -176,10 +176,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_HUM-07.png",
-    "prompt": "Create a Spanish beginner textbook illustration. Two students with diverse skin tones stand in a sunny school courtyard and talk about their class schedule. Warm colors, natural gestures, clean educational illustration style. Include exactly two large empty white speech bubbles, completely blank. No words, no letters, no signage, no posters, no pseudo text anywhere. Leave space for later Spanish typesetting.",
+    "prompt": "Create a Spanish beginner textbook illustration. Two students with diverse skin tones talk in a sunny school courtyard. Include exactly two large speech bubbles with crisp readable Spanish text. Left bubble exact text: A: ¿Qué clase tienes ahora? Right bubble exact text: B: Tengo clase de ciencias. No other text anywhere in the image. Accents and inverted question mark must be correct.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Spanish; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Spanish; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -190,10 +190,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_HUM-07.png",
-    "prompt": "Create a Spanish beginner textbook illustration. Two students with diverse skin tones stand in a sunny school courtyard and talk about their class schedule. Warm colors, natural gestures, clean educational illustration style. Include exactly two large empty white speech bubbles, completely blank. No words, no letters, no signage, no posters, no pseudo text anywhere. Leave space for later Spanish typesetting.",
+    "prompt": "Create a Spanish beginner textbook illustration. Two students with diverse skin tones talk in a sunny school courtyard. Include exactly two large speech bubbles with crisp readable Spanish text. Left bubble exact text: A: ¿Qué clase tienes ahora? Right bubble exact text: B: Tengo clase de ciencias. No other text anywhere in the image. Accents and inverted question mark must be correct.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Spanish; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Spanish; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -204,10 +204,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_HUM-08.png",
-    "prompt": "Create a Russian beginner textbook illustration. Two classmates meet at a school entrance in autumn and greet each other. Clean textbook illustration style, soft colors, simple school doorway with no signage and no writing. Add exactly two large empty white speech bubbles, completely blank with no Cyrillic characters, no letters, no marks, no pseudo text. Natural expressions and hands.",
+    "prompt": "Create a Russian beginner textbook illustration. Two classmates meet at a school entrance in autumn and greet each other. Include exactly two large speech bubbles with crisp readable Russian Cyrillic text. Left bubble exact text: A: Привет! Как дела? Right bubble exact text: B: Хорошо, спасибо. А у тебя? No other text anywhere in the image. Cyrillic characters must be clear and accurate.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Russian; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Russian; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -218,10 +218,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_HUM-08.png",
-    "prompt": "Create a Russian beginner textbook illustration. Two classmates meet at a school entrance in autumn and greet each other. Clean textbook illustration style, soft colors, simple school doorway with no signage and no writing. Add exactly two large empty white speech bubbles, completely blank with no Cyrillic characters, no letters, no marks, no pseudo text. Natural expressions and hands.",
+    "prompt": "Create a Russian beginner textbook illustration. Two classmates meet at a school entrance in autumn and greet each other. Include exactly two large speech bubbles with crisp readable Russian Cyrillic text. Left bubble exact text: A: Привет! Как дела? Right bubble exact text: B: Хорошо, спасибо. А у тебя? No other text anywhere in the image. Cyrillic characters must be clear and accurate.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Russian; Text-safe; Blank bubbles; Reviewed"
+    "tags": "Education; Russian; Text verified; Multilingual; Reviewed"
   },
   {
     "collection": "Education",
@@ -232,10 +232,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-01.png",
-    "prompt": "Create a mathematically correct, text-free textbook diagram of an upward-opening quadratic function on a clean coordinate grid. Show one smooth symmetric parabola with a clear vertical axis of symmetry, two x-intercepts at the same height on the x-axis, one vertex below the x-axis, and one y-intercept. Use red dots for key points and blue curve. Do not include any letters, numbers, formulas, labels, words, or pseudo text.",
+    "prompt": "Create a clean mathematics textbook diagram of a quadratic function on a coordinate grid. Show exactly one smooth upward-opening parabola with vertex at (2, -1), roots at (1, 0) and (3, 0), and y-intercept at (0, 3). Add crisp readable labels only: y = x² - 4x + 3, roots: (1, 0), (3, 0), vertex: (2, -1), axis: x = 2. No other text. Geometry must match the labels.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -246,10 +246,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-01.png",
-    "prompt": "Create a very simple mathematically correct, text-free textbook diagram of an upward-opening quadratic function on a clean coordinate grid. Show exactly one smooth symmetric blue parabola, one x-axis, one y-axis, and exactly three red key points: left x-intercept, right x-intercept, and vertex below the x-axis. Do not draw any other red points. No letters, no numbers, no formulas, no labels, no words, no pseudo text.",
+    "prompt": "Create a clean mathematics textbook diagram of a quadratic function on a coordinate grid. Show exactly one smooth upward-opening parabola with vertex at (2, -1), roots at (1, 0) and (3, 0), and y-intercept at (0, 3). Add crisp readable labels only: y = x² - 4x + 3, roots: (1, 0), (3, 0), vertex: (2, -1), axis: x = 2. No other text. Geometry must match the labels.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -260,10 +260,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-01A.png",
-    "prompt": "Create a mathematically correct, text-free educational diagram of an upward-opening quadratic curve on plain white paper with only x-axis and y-axis lines. Show one smooth symmetric parabola, vertex below the x-axis, two symmetric x-intercepts, and a vertical axis of symmetry shown as a light dashed line. Red dots mark intercepts and vertex. No grid, no letters, no numbers, no formulas, no labels, no pseudo text.",
+    "prompt": "Create a clean mathematics teaching diagram on a plain white background, no grid. Show one smooth upward-opening parabola with vertex below the x-axis, two x-intercepts, and a dashed vertical symmetry line. Add only these short crisp labels: y = x? - 4x + 3, vertex, roots, axis: x = 2. No extra words. No misspellings. Curve and key points must be mathematically consistent.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -274,10 +274,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-01A.png",
-    "prompt": "Create a mathematically correct, text-free educational diagram of an upward-opening quadratic curve on plain white paper with only x-axis and y-axis lines. Show one smooth symmetric parabola, vertex below the x-axis, two symmetric x-intercepts, and a vertical axis of symmetry shown as a light dashed line. Red dots mark intercepts and vertex. No grid, no letters, no numbers, no formulas, no labels, no pseudo text.",
+    "prompt": "Create a clean mathematics teaching diagram on a plain white background, no grid. Show one smooth upward-opening parabola with vertex below the x-axis, two x-intercepts, and a dashed vertical symmetry line. Add only these crisp labels: y = x² - 4x + 3, vertex, roots, axis of symmetry. No extra words, no pseudo text. Curve and key points must be mathematically consistent.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -288,10 +288,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-01B.png",
-    "prompt": "Create a clean mathematics workbook diagram of an upward-opening quadratic function on an orderly square coordinate grid. Show one smooth symmetric parabola, a single x-axis and y-axis, a dashed vertical axis of symmetry, two x-intercepts at the same height, one vertex below the x-axis, and one y-intercept. Red dots mark the key points. No letters, no numbers, no formulas, no labels, no pseudo text.",
+    "prompt": "Create a clean ordered-grid mathematics worksheet diagram. Show one smooth upward-opening parabola for y = x² - 4x + 3 with vertex (2, -1), roots (1, 0) and (3, 0), y-intercept (0, 3), and dashed axis x = 2. Use red points and blue curve. Add crisp readable labels for these items only. No extra text. All labels must match the geometry.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -302,10 +302,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-01B.png",
-    "prompt": "Create a clean mathematics workbook diagram of an upward-opening quadratic function on an orderly square coordinate grid. Show one smooth symmetric parabola, a single x-axis and y-axis, a dashed vertical axis of symmetry, two x-intercepts at the same height, one vertex below the x-axis, and one y-intercept. Red dots mark the key points. No letters, no numbers, no formulas, no labels, no pseudo text.",
+    "prompt": "Create a clean ordered-grid mathematics worksheet diagram. Show one smooth upward-opening parabola for y = x² - 4x + 3 with vertex (2, -1), roots (1, 0) and (3, 0), y-intercept (0, 3), and dashed axis x = 2. Use red points and blue curve. Add crisp readable labels for these items only. No extra text. All labels must match the geometry.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -316,10 +316,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-02.png",
-    "prompt": "Create a fully text-free quadratic function teaching graphic. Only show a precise coordinate grid, x-axis, y-axis, a smooth blue upward-opening parabola, red key points at vertex and intercepts, and a faint dashed symmetry line. The geometry must be internally consistent: symmetric left and right arms and vertex centered on the dashed line. No words, no letters, no numerals, no labels.",
+    "prompt": "Create a clear quadratic function diagram for a school textbook. Include a coordinate grid, one upward-opening blue parabola, red key points, and readable labels: x-axis, y-axis, vertex, roots, axis of symmetry. Do not include formulas or extra notes. The parabola must be symmetric and the vertex must sit on the axis of symmetry.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -330,10 +330,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-02.png",
-    "prompt": "Create a fully text-free quadratic function teaching graphic. Only show a precise coordinate grid, x-axis, y-axis, a smooth blue upward-opening parabola, red key points at vertex and intercepts, and a faint dashed symmetry line. The geometry must be internally consistent: symmetric left and right arms and vertex centered on the dashed line. No words, no letters, no numerals, no labels.",
+    "prompt": "Create a clear labeled quadratic graph for a school textbook. Show y = x? only. One upward-opening parabola with vertex exactly at the origin, x-axis and y-axis crossing at the vertex, and dashed vertical axis x = 0. Add only these labels: y = x?, vertex (0,0), x-axis, y-axis, axis: x = 0. No roots labels. No extra text. Geometry must match y = x?.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Mathematics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Mathematics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -344,10 +344,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-03.png",
-    "prompt": "Create a scientifically correct text-free free-body diagram of a rectangular block resting on an inclined plane with friction. The plane slopes upward to the right. Use exactly four force arrows from the block center: blue weight arrow straight downward, green normal force perpendicular to the plane outward, red friction arrow up the slope, and orange net force arrow down the slope. Include a small angle arc at the base. No labels, no letters, no words, no pseudo text.",
+    "prompt": "Create a correct labeled free-body diagram of a block on a ramp. The ramp slopes upward to the right. The block is sliding down the ramp toward the lower left. Draw exactly four arrows from one black dot at the block center. Labels must be large and crisp: mg vertical down, N perpendicular up-left, f parallel up-right, Fnet parallel down-left. At the base of the ramp write the Greek theta symbol exactly: ?. Do not use a question mark. No duplicate arrows. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Physics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Physics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -358,10 +358,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-03.png",
-    "prompt": "Create a simple text-free free-body diagram of a rectangular block on an inclined plane sloping upward to the right. Draw exactly four force arrows starting at the same black dot in the block center: blue arrow vertical downward for gravity, green arrow perpendicular outward from the plane, red arrow parallel up the slope, orange arrow parallel down the slope. Do not draw any extra arrows or labels. Include a small unlabeled angle arc only. No words, no letters, no numbers.",
+    "prompt": "Create a correct physics free-body diagram of a block on an inclined plane sloping upward to the right. Draw exactly four arrows from one center dot on the block. Label them with short crisp labels only: mg vertical downward, N perpendicular outward from the plane, f up the slope, Fnet down the slope. Add angle label ? at the base. No other arrows. No duplicate labels. Force directions must be physically correct.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Physics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Physics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -372,10 +372,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-04.png",
-    "prompt": "Create a clean text-free physics free-body diagram. A block sits on an inclined plane sloping upward to the right. From the block center draw force arrows only: weight vertical downward, normal perpendicular outward from the plane, friction parallel up the plane, net force parallel down the plane. Use clear colors and correct arrow directions. Include no words, no letters, no numbers, no labels, no pseudo text.",
+    "prompt": "Create a correct physics free-body diagram of a block on an inclined plane sloping upward to the right. Draw exactly four arrows from one center dot on the block. Label them with short crisp labels only: mg vertical downward, N perpendicular outward from the plane, f up the slope, Fnet down the slope. Add angle label ? at the base. No other arrows. No duplicate labels. Force directions must be physically correct.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Physics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Physics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -386,10 +386,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-04.png",
-    "prompt": "Create a clean text-free physics free-body diagram. A single block sits on an inclined plane sloping upward to the right. Draw exactly four arrows from the block center: blue vertical downward, green perpendicular outward from the plane, red parallel up the plane, orange parallel down the plane. No other arrows, no labels, no words, no letters, no numbers, no pseudo text. White background and textbook clarity.",
+    "prompt": "Create a correct labeled free-body diagram of a block on a ramp. The ramp slopes upward to the right. The block is sliding down the ramp toward the lower left. Draw exactly four arrows from one black dot at the block center. Labels must be large and crisp: mg vertical down, N perpendicular up-left, f parallel up-right, Fnet parallel down-left. At the base of the ramp write the Greek theta symbol exactly: ?. Do not use a question mark. No duplicate arrows. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Physics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Physics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -400,10 +400,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-05.png",
-    "prompt": "Create a text-free physics textbook illustration of electromagnetic induction. Show a bar magnet moving into a copper solenoid coil connected by wires to a simple galvanometer. Magnetic field lines leave the north pole and enter the south pole. Current direction arrows appear on the coil and wire loop. The circuit is connected and physically plausible. No letters, no words, no labels, no pseudo text.",
+    "prompt": "Create a correct physics education diagram of electromagnetic induction. Show a bar magnet moving into a copper solenoid coil connected to a galvanometer. Magnetic field lines leave N and enter S. Current arrows appear in the circuit. Add crisp labels only: N, S, motion, coil, induced current, galvanometer. No extra text. Circuit must be connected and physically plausible.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Physics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Physics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -414,10 +414,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-05.png",
-    "prompt": "Create a text-free physics textbook illustration of electromagnetic induction. Show a bar magnet moving into a copper solenoid coil connected by wires to a simple galvanometer. Magnetic field lines leave the north pole and enter the south pole. Current direction arrows appear on the coil and wire loop. The circuit is connected and physically plausible. No letters, no words, no labels, no pseudo text.",
+    "prompt": "Create a correct physics education diagram of electromagnetic induction. Show a bar magnet moving into a copper solenoid coil connected to a galvanometer. Magnetic field lines leave N and enter S. Current arrows appear in the circuit. Add crisp labels only: N, S, motion, coil, induced current, galvanometer. No extra text. Circuit must be connected and physically plausible.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Physics; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Physics; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -428,10 +428,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-06.png",
-    "prompt": "Create a clear text-free SN2 reaction mechanism as a three-panel educational schematic. Left panel: a blue nucleophile sphere approaches the central black carbon sphere from the backside, exactly opposite an orange leaving-group sphere. Middle panel: transition state with central carbon, dashed bond to blue nucleophile on one side and dashed bond to orange leaving group on the opposite side. Right panel: product with blue nucleophile bonded and orange leaving group separated, showing inversion by swapping wedge/dash orientation. Use curved arrow shapes for electron movement. No chemical letters, no words, no labels, no pseudo text.",
+    "prompt": "Create a clean organic chemistry textbook diagram of an SN2 reaction mechanism. Three panels left to right. Panel 1: OH⁻ nucleophile attacks CH₃Cl from the backside opposite Cl. Panel 2: transition state with partial bonds to OH and Cl. Panel 3: CH₃OH product plus Cl⁻ leaving group with inversion. Add crisp readable labels only: OH⁻, CH₃Cl, transition state, CH₃OH, Cl⁻, backside attack, inversion. Curved arrows must show electron movement correctly. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Chemistry; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Chemistry; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -442,10 +442,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-06.png",
-    "prompt": "Create a clear text-free SN2 reaction mechanism as a three-panel educational schematic. Left panel: a blue nucleophile sphere approaches the central black carbon sphere from the backside, exactly opposite an orange leaving-group sphere. Middle panel: transition state with central carbon, dashed bond to blue nucleophile on one side and dashed bond to orange leaving group on the opposite side. Right panel: product with blue nucleophile bonded and orange leaving group separated, showing inversion by swapping wedge/dash orientation. Use curved arrow shapes for electron movement. No chemical letters, no words, no labels, no pseudo text.",
+    "prompt": "Create a clean organic chemistry textbook diagram of an SN2 reaction mechanism. Three panels left to right. Use very short crisp labels only. Panel 1 label: OH? + CH?Cl. Show OH? attacking carbon from the backside opposite Cl. Panel 2 label: transition state. Show dashed bonds to OH and Cl. Panel 3 label: CH?OH + Cl? and inversion. Curved arrows must show electron movement correctly. No extra text. No misspellings.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Chemistry; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Chemistry; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -456,10 +456,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-07.png",
-    "prompt": "Create a biologically accurate high-school animal cell diagram without text. Show a round animal cell with plasma membrane, nucleus with nucleolus, mitochondria, rough endoplasmic reticulum with ribosomes, smooth endoplasmic reticulum, Golgi apparatus, lysosomes, cytoplasm, and cytoskeleton fibers. Use distinct soft colors and clean leader lines ending in blank label boxes. Do not include plant cell wall or chloroplasts. No letters, no words, no pseudo text.",
+    "prompt": "Create a biologically accurate animal cell diagram for a high-school textbook. Show plasma membrane, nucleus, nucleolus, mitochondria, rough ER, smooth ER, Golgi apparatus, ribosomes, lysosomes, cytoplasm, and cytoskeleton. Add crisp readable leader-line labels for each term. Do not show plant cell wall or chloroplasts. No misspellings, no extra pseudo text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Biology; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Biology; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -470,10 +470,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-07.png",
-    "prompt": "Create a biologically accurate high-school animal cell diagram without text. Show a round animal cell with plasma membrane, nucleus with nucleolus, mitochondria, rough endoplasmic reticulum with ribosomes, smooth endoplasmic reticulum, Golgi apparatus, lysosomes, cytoplasm, and cytoskeleton fibers. Use distinct soft colors and clean leader lines ending in blank label boxes. Do not include plant cell wall or chloroplasts. No letters, no words, no pseudo text.",
+    "prompt": "Create a simple accurate animal cell diagram for a high-school textbook. Use only five large readable labels: membrane, nucleus, mitochondria, Golgi, ribosomes. Do not show plant cell wall or chloroplasts. No other labels, no pseudo text, no misspellings.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Biology; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Biology; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -484,10 +484,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-10.png",
-    "prompt": "Create a correct text-free high-school series circuit diagram. Show one closed loop containing a battery, an open/closed switch symbol, one resistor, one light bulb, connecting wires, and conventional current direction arrows around the loop. All components must be in series on a single path, not parallel. Use clean black schematic lines on white background. No labels, no letters, no words, no pseudo text.",
+    "prompt": "Create a correct high-school engineering series circuit diagram. Show one closed loop containing a battery, switch, resistor, lamp, connecting wires, and conventional current arrows. All components must be in series on a single path, not parallel. Add crisp readable labels only: battery, switch, resistor, lamp, conventional current. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Engineering; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Engineering; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -498,10 +498,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-10.png",
-    "prompt": "Create a correct text-free high-school series circuit diagram. Show one closed loop containing a battery, an open/closed switch symbol, one resistor, one light bulb, connecting wires, and conventional current direction arrows around the loop. All components must be in series on a single path, not parallel. Use clean black schematic lines on white background. No labels, no letters, no words, no pseudo text.",
+    "prompt": "Create a correct high-school engineering series circuit diagram. Show one closed loop containing a battery, switch, resistor, lamp, connecting wires, and conventional current arrows. All components must be in series on a single path, not parallel. Add crisp readable labels only: battery, switch, resistor, lamp, conventional current. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Engineering; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Engineering; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Advertising & E-commerce",
@@ -2948,10 +2948,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-08.png",
-    "prompt": "Create a scientifically accurate photosynthesis process diagram with blank label boxes only. Show sunlight entering a green leaf, carbon dioxide arrows entering the leaf from air, water arrows rising from roots/stem into the leaf, oxygen arrows leaving the leaf, and glucose/energy product indicated by a small sugar molecule icon inside the leaf. Use correct arrow directions and simple textbook style. No words, no letters, no pseudo text.",
+    "prompt": "Create a scientifically accurate photosynthesis process diagram for a biology textbook. Show sunlight entering a leaf, CO₂ entering the leaf from air, H₂O rising from roots into the leaf, O₂ leaving the leaf, and glucose produced inside the leaf. Add crisp readable labels only: sunlight, CO₂, H₂O, O₂, glucose, chloroplast. Arrow directions must be correct. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Biology; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Biology; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -2962,10 +2962,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-08.png",
-    "prompt": "Create a scientifically accurate photosynthesis process diagram with blank label boxes only. Show sunlight entering a green leaf, carbon dioxide arrows entering the leaf from air, water arrows rising from roots/stem into the leaf, oxygen arrows leaving the leaf, and glucose/energy product indicated by a small sugar molecule icon inside the leaf. Use correct arrow directions and simple textbook style. No words, no letters, no pseudo text.",
+    "prompt": "Create a scientifically accurate photosynthesis process diagram for a biology textbook. Show sunlight entering a leaf, CO₂ entering the leaf from air, H₂O rising from roots into the leaf, O₂ leaving the leaf, and glucose produced inside the leaf. Add crisp readable labels only: sunlight, CO₂, H₂O, O₂, glucose, chloroplast. Arrow directions must be correct. No extra text.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Biology; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Biology; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -2976,10 +2976,10 @@ window.SHOWCASE_CASES = [
     "model": "qwen-image-2.0-pro",
     "status": "ok",
     "image": "assets/qwen-image-2.0-pro_STEM-09.png",
-    "prompt": "Create a biologically plausible DNA replication fork diagram with blank label boxes only. Show double-stranded DNA unwinding at a replication fork, helicase-like enzyme at the fork, leading strand synthesized continuously toward the fork, lagging strand synthesized in short Okazaki fragments away from the fork, and arrows indicating 5 prime to 3 prime synthesis direction using arrowheads only. No words, no letters, no numerals, no pseudo text.",
+    "prompt": "Create a biologically plausible DNA replication fork diagram with readable labels. Show parental DNA unwinding at a replication fork, helicase, leading strand synthesized continuously toward the fork, lagging strand with Okazaki fragments, DNA polymerase, and 5′ to 3′ direction arrows. Add crisp readable labels for these terms only. No extra pseudo text. Structure must be scientifically consistent.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Biology; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Biology; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Education",
@@ -2990,10 +2990,10 @@ window.SHOWCASE_CASES = [
     "model": "wan2.7-image",
     "status": "ok",
     "image": "assets/wan2.7-image_STEM-09.png",
-    "prompt": "Create a biologically plausible DNA replication fork diagram with blank label boxes only. Show double-stranded DNA unwinding at a replication fork, helicase-like enzyme at the fork, leading strand synthesized continuously toward the fork, lagging strand synthesized in short Okazaki fragments away from the fork, and arrows indicating 5 prime to 3 prime synthesis direction using arrowheads only. No words, no letters, no numerals, no pseudo text.",
+    "prompt": "Create a clean DNA replication fork diagram with only four readable labels: helicase, leading strand, lagging strand, DNA polymerase. Show DNA unwinding at the replication fork, leading strand continuous, lagging strand in short fragments, and 5??3? arrows. No other labels, no misspellings.",
     "reference_image": "",
     "reference_url": "",
-    "tags": "Education; Biology; STEM; Text-free; Science verified; Reviewed"
+    "tags": "Education; Biology; STEM; Text verified; Science verified; Reviewed"
   },
   {
     "collection": "Fashion",
